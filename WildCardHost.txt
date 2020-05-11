@@ -1,0 +1,2749 @@
+127.0.0.1	localhost
+::1	localhost
+::1	ip6-localhost
+::1	ip6-loopback
+
+#####-------WhistleLists--------######
+49.51.130.18 ig-us-sdkapi.igamecj.com
+92.122.212.72 file.igamecj.com
+211.152.136.121 filecdn.igamecj.com
+49.51.66.167 na.apps.game.qq.com
+49.51.129.149 lobby.igamecj.com
+119.28.123.95 download.2.1375135419.igame.gcloudcs.com
+119.28.147.156 download.2.1950038955.igamekr.gcloudcs.com
+157.240.22.19 api.facebook.com
+157.240.20.15 graph.facebook.com
+104.244.42.194 api.twitter.com
+101.89.38.174 api.voice.gcloud.qq.com
+49.51.37.28 us.voice.gcloudcs.com
+49.51.82.48 bs.voice.gcloudcs.com
+162.62.97.178 de.voice.gcloudcs.com
+107.155.6.231 vn.voice.gcloudcs.com
+107.155.20.213 ae.voice.gcloudcs.com
+107.155.26.153 my.voice.gcloudcs.com
+119.28.101.124 id.voice.gcloudcs.com
+119.28.100.184 sg.voice.gcloudcs.com
+119.28.147.27 kr.voice.gcloudcs.com
+119.28.249.121 in.voice.gcloudcs.com
+150,109,165,201 th.voice.gcloudcs.com
+124.156.208.191 jp.voice.gcloudcs.com
+162.62.16.231 ru.voice.gcloudcs.com
+169.57.134.216 br.voice.gcloudcs.com
+192.254.86.84 tw.voice.gcloudcs.com
+203.205.219.47 cn.voice.gcloudcs.com
+203.205.219.148 hk.voice.gcloudcs.com
+
+######------BlackLists-----#######
+0.0.0.0 208.67.222.222
+0.0.0.0 50.63.202.92
+0.0.0.0 162.88.193.70
+0.0.0.0 1.1.1.1
+0.0.0.0 8.8.8.8
+0.0.0.0 58.250.137.36
+0.0.0.0 79.124.78.101
+0.0.0.0 104.247.81.101
+0.0.0.0 75.126.150.210
+0.0.0.0 107.151.73.231
+0.0.0.0 192.168.1.128
+0.0.0.0 107.148.76.192
+0.0.0.0 149.112.112.9
+0.0.0.0 104.27.157.150
+0.0.0.0 9.9.9.9
+0.0.0.0 182.254.116.117
+0.0.0.0 104.202.123.250
+0.0.0.0 104.18.41.98
+0.0.0.0 203.90.247.78
+0.0.0.0 104.27.161.130
+0.0.0.0 79.124.78.101
+0.0.0.0 104.16.197.26
+0.0.0.0 173.236.125.10
+0.0.0.0 91.186.9.0
+0.0.0.0 10.0.6.7
+0.0.0.0 127.0.0.4
+0.0.0.0 0.0.0.0
+0.0.0.0 10.20.30.40
+0.0.0.0 192.168.1.199
+0.0.0.0 107.154.77.179
+0.0.0.0 .com   #commercial
+0.0.0.0 .net   #Network
+0.0.0.0 .mil   #U.S.Military
+0.0.0.0 .org   #Organization
+0.0.0.0 .int   #InternationalOrganizations
+0.0.0.0 .gov   #U.S.Fed&StateGov.Agencies
+0.0.0.0 .edu   #U.S.HigherEducation
+0.0.0.0 .arpa   #Address&RoutingParameterArea
+0.0.0.0 .ac   #AscensionIsland
+0.0.0.0 .ad   #Andorra
+0.0.0.0 .ae   #UnitedArabEmirates
+0.0.0.0 .af   #Afghanistan
+0.0.0.0 .ag   #Antigua&Barbuda
+0.0.0.0 .ai   #Anguilla
+0.0.0.0 .al   #Albania
+0.0.0.0 .am   #Armenia
+0.0.0.0 .an   #NetherlandsAntilles
+0.0.0.0 .ao   #Angola
+0.0.0.0 .aq   #Antarctica
+0.0.0.0 .ar   #Argentina
+0.0.0.0 .as   #AmericanSamoa
+0.0.0.0 .at   #Austria
+0.0.0.0 .au   #Australia
+0.0.0.0 .aw   #Aruba
+0.0.0.0 .ax   #Aland
+0.0.0.0 .az   #Azerbaijan
+0.0.0.0 .ba   #Bosnia&Herzegovina
+0.0.0.0 .bb   #Barbados
+0.0.0.0 .bd   #Bangladesh
+0.0.0.0 .be   #Belgium
+0.0.0.0 .bf   #BurkinaFaso
+0.0.0.0 .bg   #Bulgaria
+0.0.0.0 .bh   #Bahrain
+0.0.0.0 .bi   #Burundi
+0.0.0.0 .bj   #Benin
+0.0.0.0 .bm   #Bermuda
+0.0.0.0 .bn   #Brunei
+0.0.0.0 .bo   #Bolivia
+0.0.0.0 .bq   #Bonaire
+0.0.0.0 .br   #Brazil
+0.0.0.0 .bs   #Bahamas
+0.0.0.0 .bt   #Bhutan
+0.0.0.0 .bv   #BouvetIsland
+0.0.0.0 .bw   #Botswana
+0.0.0.0 .by   #BelarusByelorussia
+0.0.0.0 .bz   #Belize
+0.0.0.0 .ca   #Canada
+0.0.0.0 .cc   #Cocos(Keeling)Islands
+0.0.0.0 .cd   #DemocraticRepublicoftheCongo
+0.0.0.0 .cf   #CentralAfricanRepublic
+0.0.0.0 .cg   #RepublicoftheCongo
+0.0.0.0 .ch   #Switzerland
+0.0.0.0 .ci   #Coted'Ivoire
+0.0.0.0 .ck   #CookIslands
+0.0.0.0 .cl   #Chile
+0.0.0.0 .cm   #Cameroon
+0.0.0.0 .cn   #People'sRepublicofChina
+0.0.0.0 .co   #Colombia
+0.0.0.0 .cr   #CostaRica
+0.0.0.0 .cs   #Czechoslovakia
+0.0.0.0 .cu   #Cuba
+0.0.0.0 .cv   #CapeVerde
+0.0.0.0 .cw   #CuracaoWestIndies
+0.0.0.0 .cx   #ChristmasIsland
+0.0.0.0 .cy   #Cyprus
+0.0.0.0 .cz   #CzechRepublic
+0.0.0.0 .dd   #EastGermany
+0.0.0.0 .de   #GermanyDeutschland
+0.0.0.0 .dj   #Djibouti
+0.0.0.0 .dk   #Denmark
+0.0.0.0 .dm   #Dominica
+0.0.0.0 .do   #DominicanRepublic
+0.0.0.0 .dz   #Algeria
+#E
+0.0.0.0 .ec   #Ecuador
+0.0.0.0 .ee   #EstoniaEesti
+0.0.0.0 .eg   #Egypt
+0.0.0.0 .eh   #WesternSahara
+0.0.0.0 .er   #Eritrea
+0.0.0.0 .es   #Spain
+0.0.0.0 .et   #Ethiopia
+0.0.0.0 .eu   #EuropeanUnion
+#F
+0.0.0.0 .fi   #Finland
+0.0.0.0 .fj   #Fiji
+0.0.0.0 .fk   #FalklandIslands
+0.0.0.0 .fm   #FederatedStatesofMicronesia
+0.0.0.0 .fo   #FaroeIslands
+0.0.0.0 .fr   #France
+#G
+0.0.0.0 .gb   #UnitedKingdom
+0.0.0.0 .gd   #Grenada
+0.0.0.0 .ge   #Georgia
+0.0.0.0 .gf   #FrenchGuiana
+0.0.0.0 .gg   #Guernsey
+0.0.0.0 .gh   #Ghana
+0.0.0.0 .gi   #Gibraltar
+0.0.0.0 .gl   #Greenland
+0.0.0.0 .gm   #TheGambia
+0.0.0.0 .gn   #Guinea
+0.0.0.0 .gp   #Guadeloupe
+0.0.0.0 .gq   #EquatorialGuinea
+0.0.0.0 .gr   #Greece
+0.0.0.0 .gs   #SouthGeorgia&theSouthSandwichIslands
+0.0.0.0 .gt   #Guatemala
+0.0.0.0 .gu   #Guam
+0.0.0.0 .gw   #GuineaBissau
+0.0.0.0 .gy   #Guyana
+#H
+0.0.0.0 .hk   #HongKong
+0.0.0.0 .hm   #HeardIsland&McDonaldIslands
+0.0.0.0 .hn   #Honduras
+0.0.0.0 .hr   #CroatiaHrvatska
+0.0.0.0 .ht   #Haiti
+0.0.0.0 .hu   #Hungary
+#I
+0.0.0.0 .id   #Indonesia
+0.0.0.0 .ie   #Ireland
+0.0.0.0 .il   #Israel
+0.0.0.0 .im   #IsleofMan
+0.0.0.0 .in   #India
+0.0.0.0 .io   #BritishIndianOceanTerritory
+0.0.0.0 .ir   #Iran
+0.0.0.0 .is   #Iceland
+0.0.0.0 .it   #Italy
+#J
+0.0.0.0 .je   #Jersey
+0.0.0.0 .jm   #Jamaica
+0.0.0.0 .jo   #Jordan
+0.0.0.0 .jp   #Japan
+#K
+0.0.0.0 .ke   #Kenya
+0.0.0.0 .kg   #Kyrgyzstan
+0.0.0.0 .kh   #Cambodia
+0.0.0.0 .ki   #Kiribati
+0.0.0.0 .km   #ComorosKomori
+0.0.0.0 .kn   #SaintKitts&Nevis
+0.0.0.0 .kp   #DemocraticPeople'sRepublicofKorea
+0.0.0.0 .kr   #RepublicofKorea
+0.0.0.0 .kw   #Kuwait
+0.0.0.0 .ky   #CaymanIslands
+0.0.0.0 .kz   #Kazakhstan
+#L
+0.0.0.0 .la   #Laos
+0.0.0.0 .lb   #Lebanon
+0.0.0.0 .lc   #SaintLucia
+0.0.0.0 .li   #Liechtenstein
+0.0.0.0 .lk   #SriLanka
+0.0.0.0 .lr   #Liberia
+0.0.0.0 .ls   #Lesotho
+0.0.0.0 .lt   #Lithuania
+0.0.0.0 .lu   #Luxembourg
+0.0.0.0 .lv   #Latvia
+0.0.0.0 .ly   #Libya
+#M
+0.0.0.0 .ma   #Morocco
+0.0.0.0 .mc   #Monaco
+0.0.0.0 .md   #Moldova
+0.0.0.0 .me   #Montenegro
+0.0.0.0 .mg   #Madagascar
+0.0.0.0 .mh   #MarshallIslands
+0.0.0.0 .mk   #Macedonia
+0.0.0.0 .ml   #Mali
+0.0.0.0 .mm   #Myanmar
+0.0.0.0 .mn   #Mongolia
+0.0.0.0 .mo   #MacauMacao
+0.0.0.0 .mp   #NorthernMarianaIslandsMarianasPacific
+0.0.0.0 .mq   #Martinique
+0.0.0.0 .mr   #Mauritania
+0.0.0.0 .ms   #Montserrat
+0.0.0.0 .mt   #Malta
+0.0.0.0 .mu   #Mauritius
+0.0.0.0 .mv   #Maldives
+0.0.0.0 .mw   #Malawi
+0.0.0.0 .mx   #Mexico
+0.0.0.0 .my   #Malaysia
+0.0.0.0 .mz   #Mozambique
+#N
+0.0.0.0 .na   #Namibia
+0.0.0.0 .nc   #NewCaledonia
+0.0.0.0 .ne   #Niger
+0.0.0.0 .nf   #NorfolkIsland
+0.0.0.0 .ng   #Nigeria
+0.0.0.0 .ni   #Nicaragua
+0.0.0.0 .nl   #Netherlands
+0.0.0.0 .no   #Norway
+0.0.0.0 .np   #Nepal
+0.0.0.0 .nr   #Nauru
+0.0.0.0 .nu   #Niue
+0.0.0.0 .nz   #NewZealand
+#O
+0.0.0.0 .om   #Oman
+#P
+0.0.0.0 .pa   #Panama
+0.0.0.0 .pe   #Peru
+0.0.0.0 .pf   #FrenchPolynesia
+0.0.0.0 .pg   #PapuaNewGuinea
+0.0.0.0 .ph   #Philippines
+0.0.0.0 .pk   #Pakistan
+0.0.0.0 .pl   #Poland
+0.0.0.0 .pm   #SaintPierre&Miquelon
+0.0.0.0 .pn   #PitcairnIslands
+0.0.0.0 .pr   #PuertoRico
+0.0.0.0 .ps   #StateofPalestine
+0.0.0.0 .pt   #Portugal
+0.0.0.0 .pw   #PalauPelew
+0.0.0.0 .py   #Paraguay
+#Q
+0.0.0.0 .qa   #Qatar
+#R
+0.0.0.0 .re   #Reunion
+0.0.0.0 .ro   #Romania
+0.0.0.0 .rs   #Serbia
+0.0.0.0 .ru   #Russia
+0.0.0.0 .rw   #Rwanda
+#S
+0.0.0.0 .sa   #SaudiArabia
+0.0.0.0 .sb   #SolomonIslands
+0.0.0.0 .sc   #Seychelles
+0.0.0.0 .sd   #Sudan
+0.0.0.0 .se   #Sweden
+0.0.0.0 .sg   #Singapore
+0.0.0.0 .sh   #SaintHelena
+0.0.0.0 .si   #Slovenia
+0.0.0.0 .sj   #Svalbard&JanMayenIslands
+0.0.0.0 .sk   #Slovakia
+0.0.0.0 .sl   #SierraLeone
+0.0.0.0 .sm   #SanMari
+0.0.0.0 .sn   #Senegal
+0.0.0.0 .so   #Somalia
+0.0.0.0 .sr   #Suriname
+0.0.0.0 .ss   #SouthSudan
+0.0.0.0 .st   #SaoTome&Principe
+0.0.0.0 .su   #SovietUnion
+0.0.0.0 .sv   #ElSalvador
+0.0.0.0 .sx   #SintMaarten
+0.0.0.0 .sy   #Syria
+0.0.0.0 .sz   #Swaziland
+#T
+0.0.0.0 .tc   #Turks&CaicosIslands
+0.0.0.0 .td   #Chad
+0.0.0.0 .tf   #FrenchSouthern&AntarcticLands
+0.0.0.0 .tg   #Togo
+0.0.0.0 .th   #Thailand
+0.0.0.0 .tj   #Tajikistan
+0.0.0.0 .tk   #Tokelau
+0.0.0.0 .tl   #EastTimor
+0.0.0.0 .tm   #Turkmenistan
+0.0.0.0 .tn   #Tunisia
+0.0.0.0 .to   #Tonga
+0.0.0.0 .tp   #EastTimor
+0.0.0.0 .tr   #Turkey
+0.0.0.0 .tt   #Trinidad&Tobago
+0.0.0.0 .tv   #Tuvalu
+0.0.0.0 .tw   #Taiwan
+0.0.0.0 .tz   #Tanzania
+#U
+0.0.0.0 .ua   #Ukraine
+0.0.0.0 .ug   #Uganda
+0.0.0.0 .uk   #UnitedKingdom
+0.0.0.0 .us   #UnitedStatesofAmerica
+0.0.0.0 .uy   #Uruguay
+0.0.0.0 .uz   #Uzbekistan
+#V
+0.0.0.0 .va   #VaticanCity
+0.0.0.0 .vc   #SaintVincent&theGrenadines
+0.0.0.0 .ve   #Venezuela
+0.0.0.0 .vg   #BritishVirginIslands
+0.0.0.0 .vi   #UnitedStatesVirginIslands
+0.0.0.0 .vn   #Vietnam
+0.0.0.0 .vu   #Vanuatu
+#W
+0.0.0.0 .wf   #Wallis&Futuna
+0.0.0.0 .ws   #SamoaWesternSamoa
+#Y
+0.0.0.0 .ye   #Yemen
+0.0.0.0 .yt   #Mayotte
+0.0.0.0 .yu   #SFRYugoslaviaslavia
+#Z
+0.0.0.0 .za   #SouthAfrica
+0.0.0.0 .zm   #Zambia
+0.0.0.0 .zr   #Zaire
+0.0.0.0 .zw   #Zimbabwe
+0.0.0.0 .af
+0.0.0.0 .com.af
+0.0.0.0 .edu.af   #Educational
+0.0.0.0 .gov.afGovernment
+0.0.0.0 .net.af   #ISP's
+0.0.0.0 .org.af
+#ÃlandIslands
+0.0.0.0 .ax
+#Albania
+0.0.0.0 .gov.al   #Government
+0.0.0.0 .edu.al   #Educational
+0.0.0.0 .org.al   #NonGovernmentorgs
+0.0.0.0 .com.al   #organizations
+0.0.0.0 .net.al   #Networking
+#Algeria
+0.0.0.0 .dz
+0.0.0.0 .com.dz
+0.0.0.0 .org.dz   #Organizations
+0.0.0.0 .net.dz   #ISPs
+0.0.0.0 .gov.dz   #Government
+0.0.0.0 .edu.dz   #Academic/Scientific
+0.0.0.0 .asso.dz   #Associations
+0.0.0.0 .pol.dz   #Political
+0.0.0.0 .art.dz   #Culture&arts
+#AmericanSamoa
+0.0.0.0 .as
+#Andorra
+0.0.0.0 .ad   #Countrycode
+0.0.0.0 .nom.ad   #Personalwebsites.
+#Angola
+0.0.0.0 .ed.ao   #Educational
+0.0.0.0 .gv.ao   #Government
+0.0.0.0 .og.ao   #Anyorganisation
+0.0.0.0 .co.ao
+0.0.0.0 .pb.ao   #Publishing
+0.0.0.0 .it.ao   #International
+#Anguilla
+0.0.0.0 .ai   #Unrestricted
+0.0.0.0 .com.ai   #Unrestricted
+0.0.0.0 .net.ai   #Unrestricted
+0.0.0.0 .off.ai   #Unrestricted
+0.0.0.0 .org.ai   #Unrestricted
+#Antarctica
+0.0.0.0 .aq
+#Antigua&Barbuda
+0.0.0.0 .ag   #Unrestricted
+0.0.0.0 .com.ag   #Unrestricted
+0.0.0.0 .edu.ag   #Unrestricted
+0.0.0.0 .co.ag   #Unrestricted
+0.0.0.0 .net.ag   #Unrestricted
+0.0.0.0 .nom.ag   #Unrestricted
+0.0.0.0 .org.ag   #Unrestricted
+#Argentina
+0.0.0.0 .com.ar   #General
+0.0.0.0 .edu.ar   #Educational
+0.0.0.0 .gob.ar   #Government
+0.0.0.0 .gov.ar   #Government
+0.0.0.0 .int.ar   #InternationalOrgs
+0.0.0.0 .mil.ar   #Military
+0.0.0.0 .net.ar   #LocalISPs
+0.0.0.0 .org.ar   #NonprofitOrgs
+0.0.0.0 .tur.ar   #Tourism
+#Armenia
+0.0.0.0 .am
+#Aruba
+0.0.0.0 .aw   #Unrestricted
+0.0.0.0 .com.aw
+#AscensionIsland
+0.0.0.0 .ac
+0.0.0.0 .com.ac
+0.0.0.0 .net.ac   #ISP's
+0.0.0.0 .gov.ac   #Government
+0.0.0.0 .org.ac   #Organizations
+0.0.0.0 .mil.ac   #Military
+#Australia
+0.0.0.0 .au.
+0.0.0.0 .com.au
+0.0.0.0 .net.au
+0.0.0.0 .org.au   #Associations&nonprofit
+0.0.0.0 .edu.au   #Educational
+0.0.0.0 .gov.au   #Government
+0.0.0.0 .csiro.au   #CSIRO
+0.0.0.0 .asn.au   #Associations&nonprofit
+0.0.0.0 .id.au   #Individuals
+0.0.0.0 .act.au   #AustralianCapitalTerritory
+0.0.0.0 .nsw.au   #NewSouthWales
+0.0.0.0 .nt.au   #NorthernTerritory
+0.0.0.0 .qld.au   #Queensland
+0.0.0.0 .sa.au   #SouthAustralia
+0.0.0.0 .tas.au   #Tasmania
+0.0.0.0 .vic.au   #Victoria
+0.0.0.0 .wa.au   #WesternAustralia
+0.0.0.0 .telememo.au   #MappingX.400addresses
+0.0.0.0 .cc   #Cocos(Keeling)Islands
+0.0.0.0 .cx   #ChristmasIsland
+0.0.0.0 .hm   #Heard&McDonaldIslands
+0.0.0.0 .nf   #NorfolkIsland
+#Austria
+0.0.0.0 .at   #Unrestricted.
+0.0.0.0 .gv.at   #Government
+0.0.0.0 .ac.at   #Academic&educational
+0.0.0.0 .co.at   #Companies
+0.0.0.0 .or.at   #Organizations
+#Azerbaijan
+0.0.0.0 .az
+0.0.0.0 .com.az
+0.0.0.0 .net.az
+0.0.0.0 .int.az
+0.0.0.0 .gov.az
+0.0.0.0 .org.az
+0.0.0.0 .edu.az
+0.0.0.0 .info.az
+0.0.0.0 .pp.az
+0.0.0.0 .mil.az
+0.0.0.0 .name.az
+0.0.0.0 .pro.az
+0.0.0.0 .biz.az
+#B
+#Bahamas
+0.0.0.0 .bs
+0.0.0.0 .com.bs
+0.0.0.0 .net.bs   #ISP's
+0.0.0.0 .org.bs   #Organizations
+0.0.0.0 .edu.bs   #Educational
+0.0.0.0 .gov.bs   #Government
+#Bahrain
+0.0.0.0 .bh
+0.0.0.0 .com.bh
+0.0.0.0 .info.bh   #Informational
+0.0.0.0 .cc.bh
+0.0.0.0 .edu.bh   #Educational
+0.0.0.0 .biz.bh   #Businesses
+0.0.0.0 .net.bh   #ISP's
+0.0.0.0 .org.bh   #Organizations
+0.0.0.0 .gov.bh   #Government
+#Bangladesh
+0.0.0.0 .com.bd   #Generallyunrestricted
+0.0.0.0 .edu.bd   #Generallyunrestricted
+0.0.0.0 .ac.bd   #Generallyunrestricted
+0.0.0.0 .net.bd   #Generallyunrestricted
+0.0.0.0 .gov.bd   #Government
+0.0.0.0 .org.bd   #Generallyunrestricted
+0.0.0.0 .mil.bd   #Government
+#Barbados
+0.0.0.0 .bb
+0.0.0.0 .com.bb
+0.0.0.0 .net.bb
+0.0.0.0 .org.bb
+0.0.0.0 .gov.bb
+0.0.0.0 .info.bb
+0.0.0.0 .co.bb
+0.0.0.0 .store.bb
+0.0.0.0 .tv.bb
+0.0.0.0 .biz.bb
+#Belarus
+0.0.0.0 .by
+#Belgium
+0.0.0.0 .be
+#Belize
+0.0.0.0 .bz
+0.0.0.0 .com.bz
+0.0.0.0 .edu.bz   #Educational
+0.0.0.0 .gov.bz   #Government
+0.0.0.0 .net.bz   #Networking
+0.0.0.0 .org.bz   #Organizations
+#Benin
+0.0.0.0 .bj
+0.0.0.0 .gouv.bj
+0.0.0.0 .mil.bj
+0.0.0.0 .edu .bj
+0.0.0.0 .gov .bj
+0.0.0.0 .asso.bj
+0.0.0.0 .barreau.bj
+0.0.0.0 .com .bj
+#Bermunda
+0.0.0.0 .bm
+#Bhutan
+0.0.0.0 .bt
+#Bolivia
+0.0.0.0 .bo
+0.0.0.0 .com.bo
+0.0.0.0 .net.bo   #ISP's
+0.0.0.0 .org.bo   #Organizations
+0.0.0.0 .tv.bo   #TVmediaorganizations
+0.0.0.0 .mil.bo   #Militaryinstitutions
+0.0.0.0 .int.bo   #InternationalOrgs
+0.0.0.0 .gob.bo   #Government(Gobierno)
+0.0.0.0 .gov.bo   #Governmentinstitutions
+0.0.0.0 .edu.bo   #Educational
+#Bosnia&Herzegovina
+0.0.0.0 .ba
+0.0.0.0 .org.ba   #NonprofitOrgs
+0.0.0.0 .net.ba   #Telecommunicationsproviders
+0.0.0.0 .edu.ba   #Education
+0.0.0.0 .gov.ba   #Government
+0.0.0.0 .mil.ba   #Military
+0.0.0.0 .unsa.ba   #UniversityofSarajevo
+0.0.0.0 .untz.ba   #UniversityofTuzla
+0.0.0.0 .unmo.ba   #UniversityofMostar
+0.0.0.0 .unbi.ba   #UniversityofBihac
+0.0.0.0 .unze.ba   #UniversityofZenica
+0.0.0.0 .co.ba
+0.0.0.0 .com.ba
+0.0.0.0 .rs.ba
+#Botswana
+0.0.0.0 .bw
+0.0.0.0 .co.bw
+0.0.0.0 .org.bw
+#Brazil
+0.0.0.0 .adm.br   #Administrators
+0.0.0.0 .adv.br   #Lawyers
+0.0.0.0 .agr.br   #Agriculture
+0.0.0.0 .am.br   #AMradiocompanies
+0.0.0.0 .arq.br   #Architecture
+0.0.0.0 .art.br   #Art:music,folklore,etc.
+0.0.0.0 .ato.br   #Actors
+0.0.0.0 .bio.br   #Biologists
+0.0.0.0 .blog.br   #Blogs
+0.0.0.0 .bmd.br   #Biomedics
+0.0.0.0 .cim.br   #Brokers
+0.0.0.0 .cng.br   #Scenographers
+0.0.0.0 .cnt.br   #Accountants
+0.0.0.0 .com.br
+0.0.0.0 .coop.br   #Cooperatives
+0.0.0.0 .ecn.br   #Economy
+0.0.0.0 .edu.br   #Education
+0.0.0.0 .eng.br   #Engineers
+0.0.0.0 .esp.br   #Sports
+0.0.0.0 .etc.br
+0.0.0.0 .eti.br   #I.T.specialists
+0.0.0.0 .far.br   #Pharmacies&drugstores
+0.0.0.0 .flog.br   #Photologs
+0.0.0.0 .fm.br   #FMradiocompanies
+0.0.0.0 .fnd.br   #Phonoaudiologists
+0.0.0.0 .fot.br   #Photographers
+0.0.0.0 .fst.br   #Physiotherapists
+0.0.0.0 .g12.br   #K12educationinstitutions
+0.0.0.0 .ggf.br   #Geographers
+0.0.0.0 .gov.br   #Government
+0.0.0.0 .imb.br   #Realestate
+0.0.0.0 .ind.br   #Industries
+0.0.0.0 .inf.br   #Media&information
+0.0.0.0 .jor.br   #Journalists
+0.0.0.0 .jus.br   #BrazilianJudiciaryBranchoftheState
+0.0.0.0 .lel.br   #Auctioneers
+0.0.0.0 .mat.br   #Mathematicians&statisticians
+0.0.0.0 .med.br   #Medics
+0.0.0.0 .mil.br   #Brazilianarmedforces
+0.0.0.0 .mus.br   #Musicians
+0.0.0.0 .net.br
+0.0.0.0 .nom.br   #People
+0.0.0.0 .not.br   #Notaries
+0.0.0.0 .ntr.br   #Nutritionists
+0.0.0.0 .odo.br   #Dentists
+0.0.0.0 .org.br   #NonprofitnonGovernmental
+0.0.0.0 .ppg.br   #Publicity
+0.0.0.0 .pro.br   #Teachers
+0.0.0.0 .psc.br   #Psychologists
+0.0.0.0 .psi.br   #Onlineserviceproviders
+0.0.0.0 .qsl.br   #Radioamateurs
+0.0.0.0 .rec.br   #Recreational
+0.0.0.0 .slg.br   #Sociologists
+0.0.0.0 .srv.br   #Servicesproviders
+0.0.0.0 .tmp.br   #Temporaryevents
+0.0.0.0 .trd.br   #Translators
+0.0.0.0 .tur.br   #Tourism
+0.0.0.0 .tv.br   #Sound&imagebroadcasters
+0.0.0.0 .vet.br   #Veterinarians
+0.0.0.0 .vlog.br   #Videologs
+0.0.0.0 .wiki.br   #Wikis
+0.0.0.0 .zlg.br   #Zoologists
+#BritishIndianOceanTerritory
+0.0.0.0 .io
+#BritishVirginIslands
+0.0.0.0 .vg
+#BruneiDarussalam
+0.0.0.0 .com.bn
+0.0.0.0 .edu.bn
+0.0.0.0 .org.bn
+0.0.0.0 .net.bn
+#Bulgaria
+0.0.0.0 .bg
+#BurkinaFaso
+0.0.0.0 .bf
+#Burma(UnionofMyanmar)
+0.0.0.0 .net.mm
+0.0.0.0 .com.mm
+0.0.0.0 .edu.mm
+0.0.0.0 .org.mm
+0.0.0.0 .gov.mm
+#Burundi
+0.0.0.0 .bi
+#C
+#Cambodia
+0.0.0.0 .per.kh   #Personalnames
+0.0.0.0 .com.kh
+0.0.0.0 .edu.kh   #Educational
+0.0.0.0 .gov.kh   #Government
+0.0.0.0 .mil.kh   #Militaryentities
+0.0.0.0 .net.kh   #Networkinfrastructure
+0.0.0.0 .org.kh   #Nonorganizations
+#Cameroon
+0.0.0.0 .cm
+#Canada
+0.0.0.0 .ca
+0.0.0.0 .ab.ca   #Alberta
+0.0.0.0 .bc.ca   #BritishColumbia
+0.0.0.0 .mb.ca   #Manitoba
+0.0.0.0 .nb.ca   #NewBrunswick
+0.0.0.0 .nl.ca   #Newfoundland&Labrador
+0.0.0.0 .ns.ca   #NovaScotia
+0.0.0.0 .nt.ca   #NorthwestTerritories
+0.0.0.0 .nu.ca   #Nunavut
+0.0.0.0 .on.ca   #Ontario
+0.0.0.0 .pe.ca   #PrinceEdwardIsland
+0.0.0.0 .qc.ca   #Quebec
+0.0.0.0 .sk.ca   #Saskatchewan
+0.0.0.0 .yk.ca   #Yukon
+#CapeVerde
+0.0.0.0 .cv
+#CaymanIslands
+0.0.0.0 .ky
+0.0.0.0 .com.ky
+0.0.0.0 .org.ky
+0.0.0.0 .net.ky
+0.0.0.0 .edu.ky   #Educational
+0.0.0.0 .gov.ky   #Government
+#CentralAfricanRepublic
+0.0.0.0 .cf
+#Chad(French:Tchad)
+0.0.0.0 .td
+#Chile
+0.0.0.0 .cl
+0.0.0.0 .gov.cl   #Government
+0.0.0.0 .gob.cl   #Government
+#China
+0.0.0.0 .cn
+0.0.0.0 .ac.cn   #Academic/Scientific
+0.0.0.0 .com.cn
+0.0.0.0 .edu.cn   #Educational
+0.0.0.0 .gov.cn   #Government
+0.0.0.0 .net.cn   #Internetorganizations
+0.0.0.0 .org.cn   #Organizations
+0.0.0.0 .ah.cn   #Anhui
+0.0.0.0 .bj.cn   #Beijing
+0.0.0.0 .cq.cn   #Chongqing
+0.0.0.0 .fj.cn   #Fujian
+0.0.0.0 .gd.cn   #Guangdong
+0.0.0.0 .gs.cn   #Gansu
+0.0.0.0 .gz.cn   #Guizhou
+0.0.0.0 .gx.cn   #Guangxi
+0.0.0.0 .ha.cn   #Henan
+0.0.0.0 .hb.cn   #Hubei
+0.0.0.0 .he.cn   #Hebei
+0.0.0.0 .hi.cn   #Hainan
+0.0.0.0 .hl.cn   #Heilongjiang
+0.0.0.0 .hn.cn   #Hunan
+0.0.0.0 .jl.cn   #Jilin
+0.0.0.0 .js.cn   #Jiangsu
+0.0.0.0 .jx.cn   #Jiangxi
+0.0.0.0 .ln.cn   #Liaoning
+0.0.0.0 .nm.cn   #InnerMongolia
+0.0.0.0 .nx.cn   #Ningxia
+0.0.0.0 .qh.cn   #Qinghai
+0.0.0.0 .sc.cn   #Sichuan
+0.0.0.0 .sd.cn   #Shandong
+0.0.0.0 .sh.cn   #Shanghai
+0.0.0.0 .sn.cn   #Shaanxi
+0.0.0.0 .sx.cn   #Shanxi
+0.0.0.0 .tj.cn   #Tianjin
+0.0.0.0 .tw.cn   #Taiwan
+0.0.0.0 .xj.cn   #Xinjiang
+0.0.0.0 .xz.cn   #Xizang
+0.0.0.0 .yn.cn   #Yunnan
+0.0.0.0 .zj.cn   #Zhejiang
+#ChristmasIsland
+0.0.0.0 .cx
+#Cocos(Keeling)Islands
+0.0.0.0 .cc
+#Columbia
+0.0.0.0 .com.co
+0.0.0.0 .org.co   #Organizations
+0.0.0.0 .edu.co   #Educational
+0.0.0.0 .gov.co   #Government
+0.0.0.0 .net.co   #Networkinfrastructure
+0.0.0.0 .mil.co   #Military
+0.0.0.0 .nom.co   #Privateperson
+#Comoros
+0.0.0.0 .km
+0.0.0.0 .com.km   #Companies
+0.0.0.0 .coop.km   #Cooperatives
+0.0.0.0 .asso.km   #Associations
+0.0.0.0 .nom.km   #Individuals
+0.0.0.0 .presse.km   #Media
+0.0.0.0 .tm.km   #Trademarkowners
+0.0.0.0 .medecin.km   #Medicaldoctors
+0.0.0.0 .notaires.km   #Notaries
+0.0.0.0 .pharmaciens.km   #Pharmacists
+0.0.0.0 .veterinaire.km   #Veterinarians
+0.0.0.0 .edu.km   #Educational
+0.0.0.0 .gouv.km   #Government
+0.0.0.0 .mil.km   #Military
+#Congo
+0.0.0.0 .cd
+0.0.0.0 .cg
+#CookIslands
+0.0.0.0 .co.ck   #Businessorganisations
+0.0.0.0 .org.ck   #Notforprofitorganisations
+0.0.0.0 .edu.ck   #Educational
+0.0.0.0 .gov.ck   #Government
+0.0.0.0 .net.ck   #InternetServiceProviders
+0.0.0.0 .gen.ck
+0.0.0.0 .biz.ck   #Business
+0.0.0.0 .info.ck   #Information
+#CostaRica
+0.0.0.0 .cr
+0.0.0.0 .ac.cr   #Academic/universities
+0.0.0.0 .co.cr
+0.0.0.0 .ed.cr   #Educational
+0.0.0.0 .fi.cr   #Financialinstitutions
+0.0.0.0 .go.cr   #Governmental
+0.0.0.0 .or.cr   #NonprofitOrgs
+0.0.0.0 .sa.cr   #Healthinstitutions
+#Coted'Ivoire
+0.0.0.0 .ci
+#Croatia
+0.0.0.0 .hr
+0.0.0.0 .iz.hr
+#Cuba
+0.0.0.0 .cu
+#Cyprus
+0.0.0.0 .ac.cy   #Academic&research
+0.0.0.0 .net.cy   #InternetorNetwork
+0.0.0.0 .gov.cy   #Government
+0.0.0.0 .org.cy   #Notforprofitorganisations.
+0.0.0.0 .pro.cy   #Professionalorganizations.
+0.0.0.0 .name.cy   #Naturalpersons.
+0.0.0.0 .ekloges.cy   #Elections.
+0.0.0.0 .tm.cy   #Officiallyregisteredtrademarks.
+0.0.0.0 .ltd.cy   #Companies.
+0.0.0.0 .biz.cy   #Registeredcompany.
+0.0.0.0 .press.cy   #Media
+0.0.0.0 .parliament.cy   #CyprusParliament
+0.0.0.0 .com.cy
+#CzechRepublic
+0.0.0.0 .cz
+#D
+#Denmark
+0.0.0.0 .dk
+#Djibouti
+0.0.0.0 .dj
+#Dominica
+0.0.0.0 .dm
+0.0.0.0 .com.dm
+0.0.0.0 .net.dm
+0.0.0.0 .org.dm
+#DominicanRepublic
+0.0.0.0 .edu.do   #Academicinstitutions
+0.0.0.0 .gob.do   #Government
+0.0.0.0 .gov.do   #Government
+0.0.0.0 .com.do   #organizations
+0.0.0.0 .sld.do   #Institutionsofhealth
+0.0.0.0 .org.do   #NonGovernment
+0.0.0.0 .net.do   #Internetserviceproviders
+0.0.0.0 .web.do   #Webdevelopment&services
+0.0.0.0 .mil.do   #Militaryinstitutions
+0.0.0.0 .art.do   #Artsinstitutions
+#EastTimor
+0.0.0.0 .tl
+0.0.0.0 .com.tl
+0.0.0.0 .gov.tl   #Government
+#E
+#Ecuador
+0.0.0.0 .ec
+0.0.0.0 .com.ec
+0.0.0.0 .info.ec   #Generalinformation
+0.0.0.0 .net.ec   #Providersofinternetservices
+0.0.0.0 .fin.ec   #Financialinstitutions
+0.0.0.0 .med.ec   #Medical
+0.0.0.0 .pro.ec   #Professionals
+0.0.0.0 .org.ec   #NonprofitOrgs
+0.0.0.0 .edu.ec   #Educational.
+0.0.0.0 .gov.ec   #GovernmentofEcuador
+0.0.0.0 .mil.ec   #Ecuadorianmilitary
+#Eygypt
+0.0.0.0 .com.eg
+0.0.0.0 .edu.eg   #Educational
+0.0.0.0 .eun.eg   #EgyptianUniversitiesNetwork.
+0.0.0.0 .gov.eg   #Government
+0.0.0.0 .mil.eg   #Military
+0.0.0.0 .name.eg   #Personalwebsites
+0.0.0.0 .net.eg   #Networking
+0.0.0.0 .org.eg   #Egyptianorganizations
+0.0.0.0 .sci.eg   #Scientificsites
+#ElSalvador
+0.0.0.0 .edu.sv   #Education
+0.0.0.0 .gob.sv   #Governmental
+0.0.0.0 .com.sv
+0.0.0.0 .org.sv   #NonprofitOrgs
+0.0.0.0 .red.sv   #Nationalnetworkadministration
+#EquatorialGuinea
+0.0.0.0 .gq
+#Eritrea
+0.0.0.0 .com.er
+0.0.0.0 .edu.er
+0.0.0.0 .gov.er
+0.0.0.0 .mil.er
+0.0.0.0 .net.er
+0.0.0.0 .org.er
+0.0.0.0 .ind.er
+0.0.0.0 .rochest.er
+0.0.0.0 .w.er
+#Estonia
+0.0.0.0 .ee
+#Ethiopia
+0.0.0.0 .com.et
+0.0.0.0 .gov.et   #Government
+0.0.0.0 .org.et   #NonprofitOrgs
+0.0.0.0 .edu.et   #Educational
+0.0.0.0 .net.et   #Networkrelatedcompanies
+0.0.0.0 .biz.et   #Businesses
+0.0.0.0 .name.et   #Individuals
+0.0.0.0 .info.et   #AnyUse
+#EuropeanUnion
+0.0.0.0 .eu
+#F
+#FalklandIslands
+0.0.0.0 .co.fk   #Organizations
+0.0.0.0 .org.fk   #Organizations
+0.0.0.0 .gov.fk   #Government
+0.0.0.0 .ac.fk   #Academic
+0.0.0.0 .nom.fk   #Individuals
+0.0.0.0 .net.fk   #ISP's
+#FaroeIslands
+0.0.0.0 .fo
+#Micronesia
+0.0.0.0 .fm
+#Fiji
+0.0.0.0 .ac.fj
+0.0.0.0 .biz.fj
+0.0.0.0 .com.fj
+0.0.0.0 .info.fj
+0.0.0.0 .mil.fj
+0.0.0.0 .name.fj
+0.0.0.0 .net.fj
+0.0.0.0 .org.fj
+0.0.0.0 .pro.fj
+#Finland
+0.0.0.0 .fi
+#France
+0.0.0.0 .fr
+0.0.0.0 .tm.fr   #Trademarks
+0.0.0.0 .asso.fr   #Associations
+0.0.0.0 .nom.fr   #Surnames
+0.0.0.0 .prd.fr   #R&D
+0.0.0.0 .presse.fr   #Press
+0.0.0.0 .com.fr   #All
+0.0.0.0 .gouv.fr   #Government
+#FrenchGuiana
+0.0.0.0 .gf
+#FrenchPolynesia
+0.0.0.0 .pf
+0.0.0.0 .com.pf
+#FrenchSouthernLands
+0.0.0.0 .tf
+#G
+#Gabon
+0.0.0.0 .ga
+#TheGambia
+0.0.0.0 .gm
+#Georgia
+0.0.0.0 .ge
+#Germany
+0.0.0.0 .de
+#Ghana
+0.0.0.0 .com.gh   #Companies
+0.0.0.0 .edu.gh   #Schools
+0.0.0.0 .gov.gh   #Government
+0.0.0.0 .org.gh   #Organizations
+0.0.0.0 .mil.gh   #Military
+#Gibraltar
+0.0.0.0 .gi
+#Greece
+0.0.0.0 .gr
+0.0.0.0 .com.gr
+0.0.0.0 .edu.gr   #Educational
+0.0.0.0 .net.gr   #ISPs
+0.0.0.0 .org.gr   #NonprofitOrgs
+0.0.0.0 .gov.gr   #Governmental
+#Greenland
+0.0.0.0 .gl
+#Grenada
+0.0.0.0 .gd
+#Guadeloupe
+0.0.0.0 .gp
+0.0.0.0 .com.gp
+0.0.0.0 .net.gp
+0.0.0.0 .mobi.gp
+0.0.0.0 .edu.gp
+0.0.0.0 .asso.gp
+0.0.0.0 .org.gp
+#Guam
+0.0.0.0 .com.gu
+#Guatemala
+0.0.0.0 .com.gt
+0.0.0.0 .edu.gt   #Educational
+0.0.0.0 .net.gt   #Networks
+0.0.0.0 .gob.gt   #Government
+0.0.0.0 .org.gt   #Organizations
+0.0.0.0 .mil.gt   #Military
+0.0.0.0 .ind.gt   #Individuals
+#Guernsey
+0.0.0.0 .gg
+0.0.0.0 .ac.gg   #Academicinstitutions
+0.0.0.0 .co.gg   #Personaldomains
+0.0.0.0 .gov.gg   #Government
+0.0.0.0 .net.gg   #ISPS
+0.0.0.0 .sch.gg   #Schools
+0.0.0.0 .org.gg   #Organisations
+#Guinea
+0.0.0.0 .com.gn
+0.0.0.0 .ac.gn   #Academic
+0.0.0.0 .gov.gn   #Government
+0.0.0.0 .org.gn   #Notforprofit
+0.0.0.0 .net.gn   #Networkinfrastructure
+#GuineaBissau
+0.0.0.0 .gw
+#Guyana
+0.0.0.0 .gy
+0.0.0.0 .co.gy
+0.0.0.0 .com.gy
+0.0.0.0 .net.gy
+#H
+#Haiti
+0.0.0.0 .ht
+#Heard&McDonaldIslands
+0.0.0.0 .hm
+#Honduras
+0.0.0.0 .hn
+#HongKong
+0.0.0.0 .uk
+0.0.0.0 .com.hk
+0.0.0.0 .edu.hk   #Educational
+0.0.0.0 .gov.hk   #Government
+0.0.0.0 .idv.hk   #HKIDcardholders
+0.0.0.0 .net.hk   #ISP's
+0.0.0.0 .org.hk   #nonprofitorgs
+#Hungary
+0.0.0.0 .hu
+0.0.0.0 .2000.hu
+0.0.0.0 .agrar.hu
+0.0.0.0 .bolt.hu
+0.0.0.0 .casino.hu
+0.0.0.0 .city.hu
+0.0.0.0 .co.hu
+0.0.0.0 .erotica.hu
+0.0.0.0 .erotika.hu
+0.0.0.0 .film.hu
+0.0.0.0 .forum.hu
+0.0.0.0 .games.hu
+0.0.0.0 .hotel.hu
+0.0.0.0 .info.hu
+0.0.0.0 .ingatlan.hu
+0.0.0.0 .jogasz.hu
+0.0.0.0 .konyvelo.hu
+0.0.0.0 .lakas.hu
+0.0.0.0 .media.hu
+0.0.0.0 .news.hu
+0.0.0.0 .org.hu
+0.0.0.0 .priv.hu
+0.0.0.0 .reklam.hu
+0.0.0.0 .sex.hu
+0.0.0.0 .shop.hu
+0.0.0.0 .sport.hu
+0.0.0.0 .suli.hu
+0.0.0.0 .szex.hu
+0.0.0.0 .tm.hu
+0.0.0.0 .tozsde.hu
+0.0.0.0 .utazas.hu
+0.0.0.0 .video.hu
+#I
+#Iceland
+0.0.0.0 .is
+#India
+0.0.0.0 .in
+0.0.0.0 .co.in
+0.0.0.0 .firm.in
+0.0.0.0 .net.in
+0.0.0.0 .org.in
+0.0.0.0 .gen.in
+0.0.0.0 .ind.in
+0.0.0.0 .ac.in   #Academicinstitutions
+0.0.0.0 .edu.in   #Educational
+0.0.0.0 .res.in   #Indianresearchinstitutes
+0.0.0.0 .gov.in   #IndianGovernment
+0.0.0.0 .mil.in   #Indianmilitary
+0.0.0.0 .nic.in
+#Indonesia
+0.0.0.0 .ac.id   #AcademicInstitutions
+0.0.0.0 .co.id
+0.0.0.0 .net.id   #Communication/ISPCompany
+0.0.0.0 .or.id   #Organizations/Community
+0.0.0.0 .web.id   #InformalOrganizations/Personal
+0.0.0.0 .sch.id   #School
+0.0.0.0 .mil.id   #Military
+0.0.0.0 .go.id   #Government
+#Iran
+0.0.0.0 .ir
+0.0.0.0 .ac.ir   #Academic
+0.0.0.0 .co.ir   #Companies
+0.0.0.0 .gov.ir   #Government
+0.0.0.0 .id.ir   #Personal
+0.0.0.0 .net.ir   #ISPs
+0.0.0.0 .org.ir   #Nonprofitorganisations
+0.0.0.0 .sch.ir   #Education
+#Iraq
+0.0.0.0 .iq   #General
+0.0.0.0 .gov.iq   #Government
+0.0.0.0 .edu.iq   #Educational
+0.0.0.0 .com.iq   #Entitites
+0.0.0.0 .mil.iq   #Military
+0.0.0.0 .org.iq   #Nonprofitorganizations
+#Ireland
+0.0.0.0 .ie
+#Israel
+0.0.0.0 .ac.il   #Academic
+0.0.0.0 .co.il
+0.0.0.0 .org.il
+0.0.0.0 .net.il
+0.0.0.0 .k12.il   #Schools
+0.0.0.0 .gov.il   #Government
+0.0.0.0 .muni.il   #MunicipalGovernment
+0.0.0.0 .idf.il   #IsraelDefenseForces
+#IsleofMan
+0.0.0.0 .im
+0.0.0.0 .plc.co.im
+0.0.0.0 .net.im
+0.0.0.0 .co.im
+0.0.0.0 .org.im
+0.0.0.0 .ac.im
+0.0.0.0 .ltd.co.im
+0.0.0.0 .com.im
+0.0.0.0 .gov.im
+#Italy
+0.0.0.0 .it
+#J
+#Jamaica
+0.0.0.0 .com.jm
+0.0.0.0 .net.jm
+0.0.0.0 .org.jm
+0.0.0.0 .edu.jm
+0.0.0.0 .gov.jm
+0.0.0.0 .mil.jm
+#Japan
+0.0.0.0 .jp
+0.0.0.0 .ac.jp   #Universities
+0.0.0.0 .ad.jp   #JPNICmembers
+0.0.0.0 .co.jp   #Companies
+0.0.0.0 .ed.jp   #Educational
+0.0.0.0 .go.jp   #Government
+0.0.0.0 .gr.jp   #Groups
+0.0.0.0 .lg.jp   #LocalGovernment
+0.0.0.0 .ne.jp   #ISP's
+0.0.0.0 .or.jp   #Organizations&NonprofitOrgs
+#Jersey
+0.0.0.0 .je
+0.0.0.0 .co.je
+0.0.0.0 .org.je   #Organizations
+0.0.0.0 .net.je   #ISP
+0.0.0.0 .sch.je   #JerseyGridforLearning
+0.0.0.0 .gov.je   #Gov.
+#Jordan
+0.0.0.0 .jo
+0.0.0.0 .com.jo   #Companies
+0.0.0.0 .net.jo   #ISP's
+0.0.0.0 .gov.jo   #Government
+0.0.0.0 .edu.jo   #Educational
+0.0.0.0 .org.jo   #NonProfitOrganizations
+0.0.0.0 .mil.jo   #Military
+0.0.0.0 .name.jo   #Individuals
+0.0.0.0 .sch.jo   #Schools
+#K
+#Kazakhstan
+0.0.0.0 .org.kz   #Nonprofitorganizations
+0.0.0.0 .edu.kz   #Educational
+0.0.0.0 .net.kz   #Communications
+0.0.0.0 .gov.kz   #Government
+0.0.0.0 .mil.kz   #MinistryofDefense
+0.0.0.0 .com.kz   #Organizations
+#Kenya
+0.0.0.0 .co.ke   #Companies
+0.0.0.0 .or.ke   #NotforProfit
+0.0.0.0 .ne.ke   #NetworkDevices
+0.0.0.0 .go.ke   #Government.
+0.0.0.0 .ac.ke   #Education
+0.0.0.0 .sc.ke   #Lower&MiddleInstitutesofLearning
+#Kiribati
+0.0.0.0 .com.ki
+0.0.0.0 .biz.ki
+0.0.0.0 .net.ki
+0.0.0.0 .info.ki
+0.0.0.0 .org.ki
+0.0.0.0 .gov.ki
+0.0.0.0 .edu.ki
+0.0.0.0 .mob.ki
+0.0.0.0 .tel.ki
+0.0.0.0 .phone.ki
+#Korea,North
+0.0.0.0 .kp
+#Korea,South
+0.0.0.0 .kr   #Organizationsorindividuals
+0.0.0.0 .co.kr   #Organizationsorindividuals
+0.0.0.0 .ne.kr   #NetworkOrganizationsorindividuals
+0.0.0.0 .or.kr   #NonOrganizationsorindividuals
+0.0.0.0 .re.kr   #ResearchOrganizations
+0.0.0.0 .pe.kr   #Personal
+0.0.0.0 .go.kr   #Government
+0.0.0.0 .mil.kr   #Military
+0.0.0.0 .ac.kr   #Colleges
+0.0.0.0 .hs.kr   #Highschools
+0.0.0.0 .ms.kr   #Middleschools
+0.0.0.0 .es.kr   #Elementaryschools
+0.0.0.0 .sc.kr   #Educationorganizations
+0.0.0.0 .kg.kr   #Kindergartens
+0.0.0.0 .seoul.kr   #Seoul
+0.0.0.0 .busan.kr   #Busan
+0.0.0.0 .daegu.kr   #Daegu
+0.0.0.0 .incheon.kr   #Incheon
+0.0.0.0 .gwangju.kr   #Gwangju
+0.0.0.0 .daejeon.kr   #Daejeon
+0.0.0.0 .ulsan.kr   #Ulsan
+0.0.0.0 .gyeonggi.kr   #Gyeonggido
+0.0.0.0 .gangwon.kr   #Gangwondo
+0.0.0.0 .chungbuk.kr   #Chungcheongbukdo
+0.0.0.0 .chungnam.kr   #Chungcheongnamdo
+0.0.0.0 .jeonbuk.kr   #Jeollabukdo
+0.0.0.0 .jeonnam.kr   #Jeollanamdo
+0.0.0.0 .gyeongbuk.kr   #Gyeongsangbukdo
+0.0.0.0 .gyeongnam.kr   #Gyeongsangnamdo
+0.0.0.0 .jeju.kr   #Jejudo
+#Kuwait
+0.0.0.0 .edu.kw   #Academic&Research
+0.0.0.0 .com.kw   #Individuals
+0.0.0.0 .net.kw   #Individuals
+0.0.0.0 .org.kw   #NonprofitOrgs
+0.0.0.0 .gov.kw   #Government
+#Kyrgyzstan
+0.0.0.0 .kg
+0.0.0.0 .gov.kg   #Government
+0.0.0.0 .mil.kg   #Military
+#L
+#Laos
+0.0.0.0 .la
+#Latvia
+0.0.0.0 .lv
+0.0.0.0 .com.lv
+0.0.0.0 .edu.lv   #Educational
+0.0.0.0 .gov.lv   #Government
+0.0.0.0 .org.lv
+0.0.0.0 .mil.lv   #Defense
+0.0.0.0 .id.lv   #Individuals
+0.0.0.0 .net.lv   #ISP's
+0.0.0.0 .asn.lv   #Associations
+0.0.0.0 .conf.lv   #Conferences&exhibitions
+#Lebanon
+0.0.0.0 .com.lb
+0.0.0.0 .edu.lb   #Educational
+0.0.0.0 .gov.lb   #Government
+0.0.0.0 .net.lb   #Networkinfrastructure
+0.0.0.0 .org.lb   #Organizations
+#Lesotho
+0.0.0.0 .ls
+0.0.0.0 .co.ls
+0.0.0.0 .org.ls
+#Liberia
+0.0.0.0 .com.lr
+0.0.0.0 .edu.lr   #Schools
+0.0.0.0 .gov.lr   #Government
+0.0.0.0 .org.lr   #Notforprofitorganizations
+0.0.0.0 .net.lr   #Networkinfrastructure
+#Libya
+0.0.0.0 .ly
+0.0.0.0 .com.ly   #services
+0.0.0.0 .net.ly   #Internetrelatedservices
+0.0.0.0 .gov.ly   #Government
+0.0.0.0 .plc.ly   #Stateownedcompanies
+0.0.0.0 .edu.ly   #Educational
+0.0.0.0 .sch.ly   #Schools
+0.0.0.0 .med.ly   #Health
+0.0.0.0 .org.ly   #NonprofitOrgs
+0.0.0.0 .id.ly   #Individuals.
+#Liechtenstein
+0.0.0.0 .li
+#Lithuania
+0.0.0.0 .lt
+#Luxembourg
+0.0.0.0 .lu
+#M
+#Macau
+0.0.0.0 .mo
+0.0.0.0 .com.mo
+0.0.0.0 .edu.mo   #Educational
+0.0.0.0 .gov.mo   #Government
+0.0.0.0 .net.mo   #ISP's
+0.0.0.0 .org.mo   #NonprofitOrgs
+#Macedonia
+0.0.0.0 .mk
+0.0.0.0 .com.mk
+0.0.0.0 .org.mk
+0.0.0.0 .net.mk
+0.0.0.0 .edu.mk
+0.0.0.0 .gov.mk
+0.0.0.0 .inf.mk
+0.0.0.0 .name.mk
+#Madagascar
+0.0.0.0 .mg
+0.0.0.0 .org.mg   #Organizations
+0.0.0.0 .nom.mg   #Individuals
+0.0.0.0 .gov.mg   #Government
+0.0.0.0 .prd.mg   #Research
+0.0.0.0 .tm.mg   #Registeredtrademarks
+0.0.0.0 .edu.mg   #Educational
+0.0.0.0 .mil.mg   #Military
+0.0.0.0 .com.mg
+#Malawi
+0.0.0.0 .ac.mw   #Academic
+0.0.0.0 .co.mw   #Organisations
+0.0.0.0 .com.mw
+0.0.0.0 .coop.mw   #Cooperative
+0.0.0.0 .edu.mw   #Academicinstitutions
+0.0.0.0 .gov.mw   #Government
+0.0.0.0 .int.mw   #Internationaltreatyorganisations
+0.0.0.0 .museum.mw   #Museums&historical
+0.0.0.0 .net.mw   #Networking
+0.0.0.0 .org.mw   #Nonprofitmakingorgs
+#Malaysia
+0.0.0.0 .my
+0.0.0.0 .com.my   #Organisations
+0.0.0.0 .net.my   #Network
+0.0.0.0 .org.my   #Organisations
+0.0.0.0 .gov.my   #Government
+0.0.0.0 .edu.my   #Educational
+0.0.0.0 .sch.my   #Schools
+0.0.0.0 .mil.my   #Military
+0.0.0.0 .name.my   #MalaysianIndividuals
+#Maldives
+0.0.0.0 .aero.mv   #Aviation
+0.0.0.0 .biz.mv   #Businessorgs
+0.0.0.0 .com.mv
+0.0.0.0 .coop.mv   #Cooperativeorganization
+0.0.0.0 .edu.mv   #Educational
+0.0.0.0 .gov.mv   #Government
+0.0.0.0 .info.mv   #Information
+0.0.0.0 .int.mv   #InternationalOrganization
+0.0.0.0 .mil.mv   #Military
+0.0.0.0 .museum.mv   #Museums
+0.0.0.0 .name.mv   #Personal
+0.0.0.0 .net.mv   #Networks
+0.0.0.0 .org.mv   #Organizations
+0.0.0.0 .pro.mv   #Professionals
+#Mali
+0.0.0.0 .com.ml
+0.0.0.0 .net.ml   #Internetproviders
+0.0.0.0 .org.ml   #Associations
+0.0.0.0 .edu.ml   #Schools
+0.0.0.0 .gov.ml   #Government
+0.0.0.0 .presse.ml   #Press
+#Malta
+0.0.0.0 .com.mt
+0.0.0.0 .org.mt   #Nonprofit
+0.0.0.0 .net.mt   #Networkserviceproviders
+0.0.0.0 .edu.mt   #Educational
+0.0.0.0 .gov.mt   #Government
+#Martinique
+0.0.0.0 .mq
+#MarshallIslands
+0.0.0.0 .mh
+#Mauritania
+0.0.0.0 .mr
+0.0.0.0 .gov.mr   #Government
+#Mauritius
+0.0.0.0 .mu
+0.0.0.0 .com.mu
+0.0.0.0 .net.mu   #Network
+0.0.0.0 .org.mu   #NonprofitOrgs
+0.0.0.0 .gov.mu   #Government
+0.0.0.0 .ac.mu   #Academic
+0.0.0.0 .co.mu
+0.0.0.0 .or.mu   #NonprofitOrgs
+#Mexico
+0.0.0.0 .com.mx
+0.0.0.0 .net.mx   #ISP's
+0.0.0.0 .org.mx   #NonprofitOrgs
+0.0.0.0 .edu.mx   #Educational
+0.0.0.0 .gob.mx   #Government
+#Moldova
+0.0.0.0 .md
+#Monaco
+0.0.0.0 .mc
+0.0.0.0 .tm.mc   #Registeredtrademarks
+0.0.0.0 .asso.mc   #Associations
+#Mongolia
+0.0.0.0 .mn
+0.0.0.0 .gov.mn   #Government
+0.0.0.0 .edu.mn   #Educational
+0.0.0.0 .org.mn   #Nonprofitorganisations
+#Montenegro
+0.0.0.0 .me
+0.0.0.0 .co.me
+0.0.0.0 .net.me
+0.0.0.0 .org.me
+0.0.0.0 .edu.me   #Educational
+0.0.0.0 .ac.me   #Academic&postsecondary
+0.0.0.0 .gov.me   #Government
+0.0.0.0 .its.me   #Unlimited
+0.0.0.0 .priv.me   #Unlimited
+#Montserrat
+0.0.0.0 .ms
+#Morocco
+0.0.0.0 .ma
+0.0.0.0 .net.ma   #Internetproviders
+0.0.0.0 .ac.ma   #Educational
+0.0.0.0 .org.ma   #Organizations
+0.0.0.0 .gov.ma   #Government
+0.0.0.0 .press.ma   #Media
+0.0.0.0 .co.ma
+#Mozambique
+0.0.0.0 .co.mz
+0.0.0.0 .org.mz
+0.0.0.0 .gov.mz
+0.0.0.0 .edu.mz
+#N
+#Namibia
+0.0.0.0 .na
+0.0.0.0 .com.na
+0.0.0.0 .co.na
+0.0.0.0 .org.na
+0.0.0.0 .edu.na
+0.0.0.0 .alt.na
+0.0.0.0 .in.na
+0.0.0.0 .info.na
+0.0.0.0 .mobi.na
+0.0.0.0 .ws.na
+#Nauru
+0.0.0.0 .nr
+0.0.0.0 .edu.nr
+0.0.0.0 .gov.nr
+0.0.0.0 .biz.nr
+0.0.0.0 .info.nr
+0.0.0.0 .net.nr
+0.0.0.0 .org.nr
+0.0.0.0 .com.nr
+#Nepal
+0.0.0.0 .com.np
+0.0.0.0 .org.np
+0.0.0.0 .edu.np
+0.0.0.0 .net.np
+0.0.0.0 .gov.np
+0.0.0.0 .mil.np
+#Netherlands
+0.0.0.0 .nl
+#NetherlandsAntilles
+0.0.0.0 .an
+#NewCaledonia
+0.0.0.0 .nc
+#NewZealand
+0.0.0.0 .ac.nz   #Educational
+0.0.0.0 .co.nz   #Organisations
+0.0.0.0 .geek.nz
+0.0.0.0 .gen.nz
+0.0.0.0 .maori.nz   #Maoripeople
+0.0.0.0 .net.nz   #NZInternet
+0.0.0.0 .org.nz   #Organisations
+0.0.0.0 .school.nz   #Schools
+0.0.0.0 .cri.nz   #CrownResearchInstitutes.
+0.0.0.0 .govt.nz   #Government
+0.0.0.0 .iwi.nz   #Maori
+0.0.0.0 .parliament.nz   #OfficesofParliament
+0.0.0.0 .mil.nz   #Military
+#Nicaragua
+0.0.0.0 .ni
+0.0.0.0 .gob.ni   #Government
+0.0.0.0 .co.ni
+0.0.0.0 .ac.ni   #Educational
+0.0.0.0 .org.ni   #NonGovernmentalorganizations
+0.0.0.0 .nom.ni   #Personaldomains
+0.0.0.0 .net.ni   #Networks
+0.0.0.0 .mil.ni   #Military
+#Niger
+0.0.0.0 .ne
+#Nigeria
+0.0.0.0 .com.ng
+0.0.0.0 .org.ng   #Organizations
+0.0.0.0 .gov.ng   #Government
+0.0.0.0 .edu.ng   #Education
+0.0.0.0 .net.ng   #ISP
+#Niue
+0.0.0.0 .nu
+#NorfolkIsland
+0.0.0.0 .nf
+0.0.0.0 .com.nf
+0.0.0.0 .net.nf
+0.0.0.0 .per.nf
+0.0.0.0 .rec.nf
+0.0.0.0 .web.nf
+0.0.0.0 .arts.nf
+0.0.0.0 .firm.nf
+0.0.0.0 .info.nf
+0.0.0.0 .other.nf
+0.0.0.0 .store.nf
+#NorthernMarianaIslands
+0.0.0.0 .mp
+#Norway
+0.0.0.0 .no
+#O
+#Oman
+0.0.0.0 .com.om
+0.0.0.0 .co.om
+0.0.0.0 .edu.om   #Educational
+0.0.0.0 .ac.om   #Academic
+0.0.0.0 .sch.om   #Schools
+0.0.0.0 .gov.om   #Government
+0.0.0.0 .net.om
+0.0.0.0 .org.om   #NonprofitOrgs
+0.0.0.0 .mil.om   #MinistryofDefense
+0.0.0.0 .museum.om   #Museums
+0.0.0.0 .biz.om   #Companies
+0.0.0.0 .pro.om   #ProfessionalsAssociation.
+0.0.0.0 .med.om   #Hospitals&medical
+#P
+#Pakistan
+0.0.0.0 .pk
+0.0.0.0 .net.pk
+0.0.0.0 .edu.pk   #Education
+0.0.0.0 .org.pk   #NonprofitOrgs
+0.0.0.0 .fam.pk   #Individuals
+0.0.0.0 .biz.pk
+0.0.0.0 .web.pk
+0.0.0.0 .gov.pk   #Government
+0.0.0.0 .gob.pk   #Government
+0.0.0.0 .gok.pk   #Government
+0.0.0.0 .gon.pk   #Government
+0.0.0.0 .gop.pk   #Government
+0.0.0.0 .gos.pk   #Government
+#Palau
+0.0.0.0 .com.pw
+0.0.0.0 .net.pw   #Technology
+0.0.0.0 .org.pw
+0.0.0.0 .edu.pw   #Education
+0.0.0.0 .gov.pw   #Government
+0.0.0.0 .belau.pw   #Indigenousart
+#PalestinianTerritory
+0.0.0.0 .ps
+0.0.0.0 .com.ps
+0.0.0.0 .biz.ps   #Business
+0.0.0.0 .net.ps   #ISP's
+0.0.0.0 .edu.ps   #Educational
+0.0.0.0 .gov.ps   #Government
+0.0.0.0 .sch.ps   #Schools&Kindergartens
+0.0.0.0 .mun.ps   #MunicipalGovernment
+#Panama
+0.0.0.0 .net.pa
+0.0.0.0 .com.pa
+0.0.0.0 .ac.pa
+0.0.0.0 .sld.pa
+0.0.0.0 .gob.pa
+0.0.0.0 .edu.pa
+0.0.0.0 .org.pa
+0.0.0.0 .abo.pa
+0.0.0.0 .ing.pa
+0.0.0.0 .med.pa
+0.0.0.0 .nom.pa
+#PapuaNewGuinea
+0.0.0.0 .com.pg
+0.0.0.0 .net.pg
+0.0.0.0 .ac.pg
+0.0.0.0 .gov.pg
+0.0.0.0 .mil.pg
+0.0.0.0 .org.pg
+#Paraguay
+0.0.0.0 .org.py
+0.0.0.0 .edu.py
+0.0.0.0 .mil.py
+0.0.0.0 .gov.py
+0.0.0.0 .net.py
+0.0.0.0 .com.py
+0.0.0.0 .una.py
+#Peru
+0.0.0.0 .pe
+0.0.0.0 .edu.pe   #Education
+0.0.0.0 .gob.pe   #Government
+0.0.0.0 .nom.pe   #Individuals
+0.0.0.0 .mil.pe   #Military
+0.0.0.0 .sld.pe   #Health
+0.0.0.0 .org.pe   #Organizations
+0.0.0.0 .com.pe
+0.0.0.0 .net.pe   #Network
+#Philippines
+0.0.0.0 .ph
+0.0.0.0 .com.ph   #Business
+0.0.0.0 .net.ph   #Internet
+0.0.0.0 .org.ph   #Organizations
+0.0.0.0 .mil.ph   #Military
+0.0.0.0 .ngo.ph   #NonGovernmentorgs
+0.0.0.0 .i.ph   #Individuals
+0.0.0.0 .gov.ph   #Government
+0.0.0.0 .edu.ph   #Educational
+#PitcairnIslands
+0.0.0.0 .pl
+0.0.0.0 .com.pl
+0.0.0.0 .org.pl
+0.0.0.0 .gov.pl
+#Poland
+0.0.0.0 .pl
+0.0.0.0 .com.pl
+0.0.0.0 .biz.pl   #Commerce
+0.0.0.0 .net.pl   #Network
+0.0.0.0 .art.pl   #Art
+0.0.0.0 .edu.pl   #Education
+0.0.0.0 .org.pl   #Organizations
+0.0.0.0 .ngo.pl   #Organizations
+0.0.0.0 .gov.pl   #Government
+0.0.0.0 .info.pl   #Information
+0.0.0.0 .mil.pl   #Military
+0.0.0.0 .waw.pl   #Warsaw
+0.0.0.0 .warszawa.pl   #Warsaw
+0.0.0.0 .wroc.pl   #Wroclaw
+0.0.0.0 .wroclaw.pl   #Wroclaw
+0.0.0.0 .krakow.pl   #Krakow
+0.0.0.0 .katowice.pl   #Katowice
+0.0.0.0 .poznan.pl   #Poznan
+0.0.0.0 .lodz.pl   #Lodz
+0.0.0.0 .gda.pl   #Gdansk
+0.0.0.0 .gdansk.pl   #Gdansk
+0.0.0.0 .slupsk.pl   #Slupsk
+0.0.0.0 .radom.pl   #Radom
+0.0.0.0 .szczecin.pl   #Szczecin
+0.0.0.0 .lublin.pl   #Lublin
+0.0.0.0 .bialystok.pl   #Bialystok
+0.0.0.0 .olsztyn.pl   #Olsztyn
+0.0.0.0 .torun.pl   #Torun
+0.0.0.0 .gorzow.pl   #GorzowWielkopolski
+0.0.0.0 .zgora.pl   #ZielonaGora
+#Portugal
+0.0.0.0 .pt
+0.0.0.0 .com.pt
+0.0.0.0 .edu.pt   #Education
+0.0.0.0 .gov.pt   #Government
+0.0.0.0 .int.pt   #InternationalOrgs
+0.0.0.0 .net.pt   #Telecommunications
+0.0.0.0 .nome.pt   #Individuals
+0.0.0.0 .org.pt   #NonprofitOrgs
+0.0.0.0 .publ.pt   #Publications
+#PuertoRico
+0.0.0.0 .pr
+0.0.0.0 .biz.pr   #Business
+0.0.0.0 .com.pr   #Companies
+0.0.0.0 .edu.pr   #Educational
+0.0.0.0 .gov.pr   #Government
+0.0.0.0 .info.pr   #Information
+0.0.0.0 .isla.pr
+0.0.0.0 .name.pr   #Individuals
+0.0.0.0 .net.pr
+0.0.0.0 .org.pr   #Organizations
+0.0.0.0 .pro.pr   #Professionals
+0.0.0.0 .est.pr   #Universitystudents
+0.0.0.0 .prof.pr   #Universityprofessors
+0.0.0.0 .ac.pr   #Academics
+#Q
+#Qatar
+0.0.0.0 .com.qa
+0.0.0.0 .org.qa   #Organizations
+0.0.0.0 .edu.qa   #Education
+0.0.0.0 .gov.qa   #Government
+0.0.0.0 .net.qa
+#R
+#Romania
+0.0.0.0 .ro
+0.0.0.0 .arts.ro
+0.0.0.0 .com.ro
+0.0.0.0 .firm.ro
+0.0.0.0 .info.ro
+0.0.0.0 .nom.ro
+0.0.0.0 .nt.ro
+0.0.0.0 .org.ro
+0.0.0.0 .rec.ro
+0.0.0.0 .store.ro
+0.0.0.0 .tm.ro
+0.0.0.0 .www.ro
+#Reunion
+0.0.0.0 .re
+0.0.0.0 .asso.re   #Associations
+0.0.0.0 .nom.re   #Surnames
+0.0.0.0 .com.re
+#Russia
+0.0.0.0 .ru
+0.0.0.0 .com.ru
+0.0.0.0 .net.ru
+0.0.0.0 .org.ru   #Organizations.
+0.0.0.0 .pp.ru   #Individuals
+#Rwanda
+0.0.0.0 .rw
+0.0.0.0 .gov.rw
+0.0.0.0 .net.rw
+0.0.0.0 .edu.rw
+0.0.0.0 .ac.rw
+0.0.0.0 .com.rw
+0.0.0.0 .co.rw
+0.0.0.0 .int.rw
+0.0.0.0 .mil.rw
+0.0.0.0 .gouv.rw
+#S
+#SaintHelena
+0.0.0.0 .sh
+0.0.0.0 .co.sh
+0.0.0.0 .com.sh
+0.0.0.0 .org.sh   #NonprofitOrgs
+0.0.0.0 .gov.sh   #Government
+0.0.0.0 .edu.sh   #Education
+0.0.0.0 .net.sh   #ISP's
+0.0.0.0 .nom.sh   #Nonislandwebsites
+#SaintKitts&Nevis
+0.0.0.0 .kn
+0.0.0.0 .org.kn   #Organizations
+0.0.0.0 .net.kn   #Networks
+0.0.0.0 .gov.kn   #Government
+0.0.0.0 .edu.kn   #Education
+#SaintLucia
+0.0.0.0 .lc
+0.0.0.0 .com.lc
+0.0.0.0 .org.lc
+0.0.0.0 .net.lc
+0.0.0.0 .co.lc
+0.0.0.0 .l.lc
+0.0.0.0 .p.lc
+#SaintVincent&Grenadines
+0.0.0.0 .vc
+0.0.0.0 .com.vc
+0.0.0.0 .net.vc
+0.0.0.0 .org.vc   #NonprofitOrgs
+#Samoa
+0.0.0.0 .ws
+0.0.0.0 .com.ws
+0.0.0.0 .net.ws
+0.0.0.0 .org.ws
+0.0.0.0 .gov.ws
+0.0.0.0 .edu.ws
+#SanMarino
+0.0.0.0 .sm
+#SaoTome&Principe
+0.0.0.0 .st
+0.0.0.0 .gov.st   #Government
+0.0.0.0 .saotome.st   #IslandofSaoTome
+0.0.0.0 .principe.st   #IslandofPrincipe
+0.0.0.0 .consulado.st   #SaoTome&Principeconsulates
+0.0.0.0 .embaixada.st
+0.0.0.0 .org.st
+0.0.0.0 .edu.st
+0.0.0.0 .net.st
+0.0.0.0 .com.st
+0.0.0.0 .store.st
+0.0.0.0 .mil.st
+0.0.0.0 .co.st
+#SaudiArabia
+0.0.0.0 .com.sa
+0.0.0.0 .edu.sa   #Educational
+0.0.0.0 .sch.sa   #Schools
+0.0.0.0 .med.sa   #Healthservices
+0.0.0.0 .gov.sa   #Government
+0.0.0.0 .net.sa   #Internetrelatedservices
+0.0.0.0 .org.sa   #NonprofitOrgs
+0.0.0.0 .pub.sa
+#Senegal
+0.0.0.0 .sn
+#Serbia
+0.0.0.0 .rs
+0.0.0.0 .co.rs   #Corporations
+0.0.0.0 .org.rs   #Civilorganizations
+0.0.0.0 .edu.rs   #Educational
+0.0.0.0 .ac.rs   #Academic&research
+0.0.0.0 .gov.rs   #State&Government
+0.0.0.0 .in.rs   #Personaluse
+#Seychelles
+0.0.0.0 .sc
+0.0.0.0 .com.sc
+0.0.0.0 .net.sc   #networkinfrastructure
+0.0.0.0 .edu.sc   #Educational
+0.0.0.0 .gov.sc   #Government
+0.0.0.0 .org.sc   #Organizations
+#SierraLeone
+0.0.0.0 .sl
+0.0.0.0 .com.sl
+0.0.0.0 .net.sl
+0.0.0.0 .org.sl   #Charities&nonprofit
+0.0.0.0 .edu.sl   #Educational
+0.0.0.0 .gov.sl   #State&localGovernment
+#Singapore
+0.0.0.0 .sg
+0.0.0.0 .com.sg
+0.0.0.0 .net.sg
+0.0.0.0 .org.sg
+0.0.0.0 .gov.sg   #Government
+0.0.0.0 .edu.sg   #Educational
+0.0.0.0 .per.sg   #Personaldomainnames
+0.0.0.0 .idn.sg
+#Slovakia
+0.0.0.0 .sk
+#Slovenia
+0.0.0.0 .si
+#SolomonIslands
+0.0.0.0 .com.sb   #Unrestricted.
+0.0.0.0 .net.sb   #Unrestricted.
+0.0.0.0 .edu.sb   #Restricted.
+0.0.0.0 .org.sb   #Restricted.
+0.0.0.0 .gov.sb   #Restricted.
+#SouthAfrica
+0.0.0.0 .ac.za   #Academic
+0.0.0.0 .city.za   #MunicipalGovernments
+0.0.0.0 .co.za
+0.0.0.0 .edu.za
+0.0.0.0 .gov.za   #Government
+0.0.0.0 .law.za   #Legalfirms
+0.0.0.0 .mil.za   #Military
+0.0.0.0 .nom.za   #Personalnames
+0.0.0.0 .org.za
+0.0.0.0 .school.za   #Schools
+0.0.0.0 .ecape.school.za   #EasternCape
+0.0.0.0 .fs.school.za   #FreeState
+0.0.0.0 .gp.school.za   #Gauteng
+0.0.0.0 .kzn.school.za   #KwazuluNatal
+0.0.0.0 .mpm.school.za   #Mpumalanga
+0.0.0.0 .ncape.school.za   #NorthernCape
+0.0.0.0 .lp.school.za   #Limpopo
+0.0.0.0 .nw.school.za   #NorthWest
+0.0.0.0 .wcape.school.za   #WesternCape
+0.0.0.0 .alt.za
+0.0.0.0 .net.za
+0.0.0.0 .ngo.za
+0.0.0.0 .tm.za
+0.0.0.0 .web.za
+0.0.0.0 .agric.za
+0.0.0.0 .cybernet.za
+0.0.0.0 .grondar.za
+0.0.0.0 .iaccess.za
+0.0.0.0 .inca.za
+0.0.0.0 .nis.za
+0.0.0.0 .olivetti.za
+0.0.0.0 .pix.za
+0.0.0.0 .gs
+#SovietUnion
+0.0.0.0 .su
+#Spain
+0.0.0.0 .es
+0.0.0.0 .com.es
+0.0.0.0 .nom.es
+0.0.0.0 .org.es
+0.0.0.0 .gob.es
+0.0.0.0 .edu.es   #Educational
+#SriLanka
+0.0.0.0 .com.lk
+0.0.0.0 .org.lk   #Organizations
+0.0.0.0 .edu.lk   #Educational
+0.0.0.0 .ngo.lk   #NonGovernmentalorgs
+0.0.0.0 .soc.lk   #Registeredsocieties
+0.0.0.0 .web.lk   #Websites
+0.0.0.0 .ltd.lk   #Limitedliabilitycompanies
+0.0.0.0 .assn.lk   #Associations
+0.0.0.0 .grp.lk   #Groupsofcompanies
+0.0.0.0 .hotel.lk   #Hotels
+0.0.0.0 .gov.lk   #Government
+0.0.0.0 .sch.lk   #Registeredschools
+0.0.0.0 .net.lk   #ISP's
+0.0.0.0 .int.lk   #Internationaltreatyorganizations
+#Sudan
+0.0.0.0 .sd
+0.0.0.0 .com.sd   #Companies
+0.0.0.0 .net.sd   #ISP's
+0.0.0.0 .org.sd   #NGOs
+0.0.0.0 .edu.sd   #Universities&Colleges
+0.0.0.0 .med.sd   #Medical
+0.0.0.0 .tv.sd   #Media
+0.0.0.0 .gov.sd   #Government
+0.0.0.0 .info.sd   #Media
+#Suriname
+0.0.0.0 .sr
+#Swaziland
+0.0.0.0 .sz
+0.0.0.0 .co.sz
+0.0.0.0 .ac.sz   #AcademicInstitutions
+0.0.0.0 .org.sz   #Organizations
+#Sweden
+0.0.0.0 .se
+0.0.0.0 .a.se   #StockholmCity
+0.0.0.0 .b.se   #StockholmCounty
+0.0.0.0 .ac.se   #VasterbottenCounty
+0.0.0.0 .bd.se   #NorrbottenCounty
+0.0.0.0 .c.se   #UppsalaCounty
+0.0.0.0 .d.se   #SodermanlandCounty
+0.0.0.0 .e.se   #OstergotlandCounty
+0.0.0.0 .f.se   #JonkopingCounty
+0.0.0.0 .g.se   #KronobergCounty
+0.0.0.0 .h.se   #KalmarCounty
+0.0.0.0 .i.se   #GotlandCounty
+0.0.0.0 .k.se   #BlekingeCounty
+0.0.0.0 .l.se   #KristianstadCounty
+0.0.0.0 .m.se   #SkaneCounty
+0.0.0.0 .n.se   #HallandCounty
+0.0.0.0 .o.se   #VastraGotalandCounty
+0.0.0.0 .p.se   #AlvsborgCounty
+0.0.0.0 .r.se   #SkaraborgCounty
+0.0.0.0 .s.se   #VarmlandCounty
+0.0.0.0 .t.se   #OrebroCounty
+0.0.0.0 .u.se   #VastmanlandCounty
+0.0.0.0 .w.se   #DalarnaCounty
+0.0.0.0 .x.se   #GavleborgCounty
+0.0.0.0 .y.se   #VasternorrlandCounty
+0.0.0.0 .z.se   #JamtlandCounty
+0.0.0.0 .org.se   #NonprofitOrgs
+0.0.0.0 .pp.se   #PrivatePersons
+0.0.0.0 .tm.se   #TradeMarks
+0.0.0.0 .parti.se   #PoliticalParties
+0.0.0.0 .press.se   #PeriodicalPublications
+#Switzerland
+0.0.0.0 .ch
+#Syria
+0.0.0.0 .sy
+0.0.0.0 .edu.sy
+0.0.0.0 .gov.sy
+0.0.0.0 .net.sy
+0.0.0.0 .mil.sy
+0.0.0.0 .com.sy
+0.0.0.0 .org.sy
+0.0.0.0 .news.sy
+#T
+#Taiwan
+0.0.0.0 .tw   #Unrestricted
+0.0.0.0 .edu.tw   #Educational
+0.0.0.0 .gov.tw   #Government
+0.0.0.0 .mil.tw   #Military
+0.0.0.0 .com.tw   #Companiesorfirms
+0.0.0.0 .net.tw
+0.0.0.0 .org.tw   #NonprofitOrgs
+0.0.0.0 .idv.tw   #Individuals
+0.0.0.0 .game.tw   #Unrestricted
+0.0.0.0 .ebiz.tw   #Unrestricted
+0.0.0.0 .club.tw   #Unrestricted
+#Tajikistan
+0.0.0.0 .tj
+0.0.0.0 .ac.tj
+0.0.0.0 .aero.tj
+0.0.0.0 .biz.tj
+0.0.0.0 .co.tj
+0.0.0.0 .com.tj
+0.0.0.0 .coop.tj
+0.0.0.0 .dyn.tj
+0.0.0.0 .edu.tj
+0.0.0.0 .go.tj
+0.0.0.0 .gov.tj
+0.0.0.0 .info.tj
+0.0.0.0 .int.tj
+0.0.0.0 .mil.tj
+0.0.0.0 .museum.tj
+0.0.0.0 .my.tj
+0.0.0.0 .name.tj
+0.0.0.0 .net.tj
+0.0.0.0 .org.tj
+0.0.0.0 .per.tj
+0.0.0.0 .pro.tj
+0.0.0.0 .web.tj
+#Tanzania
+0.0.0.0 .co.tz
+0.0.0.0 .ac.tz   #Schools
+0.0.0.0 .go.tz   #Government
+0.0.0.0 .or.tz   #Notforprofitorganizations
+0.0.0.0 .ne.tz   #Networkinfrastructure
+#Thailand
+0.0.0.0 .ac.th   #Academic
+0.0.0.0 .co.th
+0.0.0.0 .in.th   #Individualsororganizations
+0.0.0.0 .go.th   #Governmental
+0.0.0.0 .mi.th   #Military
+0.0.0.0 .or.th   #NonprofitOrgs
+0.0.0.0 .net.th   #Internetprovider
+#Togo
+0.0.0.0 .tg
+#Tokelau
+0.0.0.0 .tk
+#Tonga
+0.0.0.0 .to
+#Trinidad&Tobago
+0.0.0.0 .tt
+0.0.0.0 .co.tt
+0.0.0.0 .com.tt
+0.0.0.0 .org.tt
+0.0.0.0 .net.tt
+0.0.0.0 .biz.tt
+0.0.0.0 .info.tt
+0.0.0.0 .pro.tt
+0.0.0.0 .name.tt
+0.0.0.0 .edu.tt   #Educational
+0.0.0.0 .gov.tt   #Government
+#Tunisia
+0.0.0.0 .tn
+0.0.0.0 .com.tn
+0.0.0.0 .ens.tn
+0.0.0.0 .fin.tn
+0.0.0.0 .gov.tn
+0.0.0.0 .ind.tn
+0.0.0.0 .intl.tn
+0.0.0.0 .nat.tn
+0.0.0.0 .net.tn
+0.0.0.0 .org.tn
+0.0.0.0 .info.tn
+0.0.0.0 .perso.tn
+0.0.0.0 .tourism.tn
+0.0.0.0 .edunet.tn
+0.0.0.0 .rnrt.tn
+0.0.0.0 .rns.tn
+0.0.0.0 .rnu.tn
+0.0.0.0 .mincom.tn
+0.0.0.0 .agrinet.tn
+0.0.0.0 .defense.tn
+#Turkey
+0.0.0.0 .com.tr
+0.0.0.0 .gen.tr
+0.0.0.0 .org.tr
+0.0.0.0 .biz.tr
+0.0.0.0 .info.tr
+0.0.0.0 .av.tr
+0.0.0.0 .dr.tr
+0.0.0.0 .pol.tr
+0.0.0.0 .bel.tr
+0.0.0.0 .mil.tr
+0.0.0.0 .tsk.tr
+0.0.0.0 .bbs.tr
+0.0.0.0 .k12.tr
+0.0.0.0 .edu.tr
+0.0.0.0 .name.tr
+0.0.0.0 .net.tr
+0.0.0.0 .gov.tr
+0.0.0.0 .web.tr
+0.0.0.0 .tel.tr
+0.0.0.0 .tv.tr
+0.0.0.0 .tm
+0.0.0.0 .tc
+0.0.0.0 .tv
+0.0.0.0 .ug
+0.0.0.0 .co.ug
+0.0.0.0 .ac.ug   #Educational
+0.0.0.0 .sc.ug   #Educational
+0.0.0.0 .go.ug   #Government
+0.0.0.0 .ne.ug   #ISP's
+0.0.0.0 .or.ug   #NonGovernment
+#Ukraine
+0.0.0.0 .ua
+0.0.0.0 .com.ua   #Organisations
+0.0.0.0 .gov.ua   #Government
+0.0.0.0 .net.ua   #ISP's
+0.0.0.0 .edu.ua   #Education
+0.0.0.0 .org.ua   #Otherorganisations
+0.0.0.0 .in.ua   #DomainsIndividuals
+#UnitedArabEmirates
+0.0.0.0 .ae
+0.0.0.0 .co.ae   #Companies
+0.0.0.0 .net.ae   #ISP's
+0.0.0.0 .gov.ae   #Government
+0.0.0.0 .ac.ae   #Colleges&Universities
+0.0.0.0 .sch.ae   #Public&PrivateSchools
+0.0.0.0 .org.ae   #Organizations
+0.0.0.0 .mil.ae   #Military
+0.0.0.0 .pro.ae   #Professionals
+0.0.0.0 .name.ae   #Individuals
+#UnitedKingdom
+0.0.0.0 .ac.uk   #Academic
+0.0.0.0 .co.uk
+0.0.0.0 .gov.uk   #Government
+0.0.0.0 .ltd.uk   #Limitedcompanies
+0.0.0.0 .me.uk   #Personal
+0.0.0.0 .mod.uk   #MinistryofDefence
+0.0.0.0 .net.uk   #ISPs
+0.0.0.0 .nic.uk   #Networkuseonly
+0.0.0.0 .nhs.uk   #NationalHealthService
+0.0.0.0 .org.uk   #Nonprofitorganisations
+0.0.0.0 .plc.uk   #Publiclimitedcompanies
+0.0.0.0 .police.uk   #Police
+0.0.0.0 .sch.uk   #Education
+#UnitedStatesofAmerica
+0.0.0.0 .ak.us   #Alaska
+0.0.0.0 .al.us   #Alabama
+0.0.0.0 .ar.us   #Arkansas
+0.0.0.0 .az.us   #Arizona
+0.0.0.0 .ca.us   #California
+0.0.0.0 .co.us   #Colorado
+0.0.0.0 .ct.us   #Connecticut
+0.0.0.0 .de.us   #Delaware
+0.0.0.0 .fl.us   #Florida
+0.0.0.0 .ga.us   #Georgia
+0.0.0.0 .hi.us   #Hawaii
+0.0.0.0 .ia.us   #Iowa
+0.0.0.0 .id.us   #Idaho
+0.0.0.0 .il.us   #Illinois
+0.0.0.0 .in.us   #Indiana
+0.0.0.0 .ks.us   #Kansas
+0.0.0.0 .ky.us   #Kentucky
+0.0.0.0 .la.us   #Louisiana
+0.0.0.0 .ma.us   #Massachusetts
+0.0.0.0 .md.us   #Maryland
+0.0.0.0 .me.us   #Maine
+0.0.0.0 .mi.us   #Michigan
+0.0.0.0 .mn.us   #Minnesota
+0.0.0.0 .mo.us   #Missouri
+0.0.0.0 .ms.us   #Mississippi
+0.0.0.0 .mt.us   #Montana
+0.0.0.0 .nc.us   #NorthCarolina
+0.0.0.0 .nd.us   #NorthDakota
+0.0.0.0 .ne.us   #Nebraska
+0.0.0.0 .nh.us   #NewHampshire
+0.0.0.0 .nj.us   #NewJersey
+0.0.0.0 .nm.us   #NewMexico
+0.0.0.0 .nv.us   #Nevada
+0.0.0.0 .ny.us   #NewYork
+0.0.0.0 .oh.us   #Ohio
+0.0.0.0 .ok.us   #Oklahoma
+0.0.0.0 .or.us   #Oregon
+0.0.0.0 .pa.us   #Pennsylvania
+0.0.0.0 .ri.us   #RhodeIsland
+0.0.0.0 .sc.us   #SouthCarolina
+0.0.0.0 .sd.us   #SouthDakota
+0.0.0.0 .tn.us   #Tennessee
+0.0.0.0 .tx.us   #Texas
+0.0.0.0 .ut.us   #Utah
+0.0.0.0 .va.us   #Virginia
+0.0.0.0 .vt.us   #Vermont
+0.0.0.0 .wa.us   #Washington
+0.0.0.0 .wi.us   #Wisconsin
+0.0.0.0 .wv.us   #WestVirginia
+0.0.0.0 .wy.us   #Wyoming
+0.0.0.0 .dc.us   #DistrictofColumbia
+0.0.0.0 .as.us   #TerritoryofAmericanSamoa
+0.0.0.0 .gu.us   #TerritoryofGuam
+0.0.0.0 .mp.us   #NorthernMarianaIslands
+0.0.0.0 .pr.us   #CommonwealthofPuertoRico
+0.0.0.0 .vi.us   #TerritoryoftheUnitedStates
+0.0.0.0 .dni.us   #Distributednationalinstitutes
+0.0.0.0 .fed.us   #FederalGovernment
+0.0.0.0 .isa.us   #Interstateagency
+0.0.0.0 .kids.us
+0.0.0.0 .nsn.us   #Nativesovereignnations
+#Uruguay
+0.0.0.0 .com.uy
+0.0.0.0 .edu.uy   #Educational
+0.0.0.0 .gub.uy   #Government
+0.0.0.0 .net.uy   #Internetserviceproviders
+0.0.0.0 .mil.uy   #Military
+0.0.0.0 .org.uy   #Nonprofitorganisations
+#U.S.VirginIslands
+0.0.0.0 .vi
+0.0.0.0 .co.vi
+0.0.0.0 .com.vi
+#Uzbekistan
+0.0.0.0 .uz
+0.0.0.0 .co.uz
+0.0.0.0 .com.uz
+#V
+#Vanuatu
+0.0.0.0 .vu
+#Vatican
+0.0.0.0 .va
+#Venezuela
+0.0.0.0 .com.ve
+0.0.0.0 .edu.ve   #Educational
+0.0.0.0 .gob.ve   #Government
+0.0.0.0 .mil.ve   #Military
+0.0.0.0 .net.ve   #ISP's
+0.0.0.0 .org.ve   #NonprofitOrgs
+0.0.0.0 .info.ve   #Informationalsites
+0.0.0.0 .co.ve
+0.0.0.0 .web.ve   #Individuals
+0.0.0.0 .vn
+0.0.0.0 .com.vn
+0.0.0.0 .biz.vn   #Business
+0.0.0.0 .edu.vn   #Education
+0.0.0.0 .gov.vn   #Government
+0.0.0.0 .net.vn   #Onlineservices.
+0.0.0.0 .org.vn   #Organizations
+0.0.0.0 .int.vn   #Organizations.
+0.0.0.0 .ac.vn   #Researchactivities.
+0.0.0.0 .pro.vn   #Organizations&individuals
+0.0.0.0 .info.vn   #Information.
+0.0.0.0 .health.vn   #Pharmaceutical&medical
+0.0.0.0 .name.vn   #Propernames
+0.0.0.0 .wf
+0.0.0.0 .com.ye
+0.0.0.0 .co.ye   #Companies
+0.0.0.0 .ltd.ye   #LimitedCompanies
+0.0.0.0 .me.ye   #PrivateIndividuals
+0.0.0.0 .net.ye   #ISP's
+0.0.0.0 .org.ye   #Organizations
+0.0.0.0 .plc.ye
+0.0.0.0 .gov.ye   #Government
+0.0.0.0 .ac.zm   #Academic
+0.0.0.0 .co.zm
+0.0.0.0 .com.zm
+0.0.0.0 .org.zm   #Organizations
+0.0.0.0 .co.zw
+0.0.0.0 .bar   #Barsandpubs
+0.0.0.0 .bank   #Banks
+0.0.0.0 .coop   #Cooperatives
+0.0.0.0 .enterprises   #Businessassociations
+0.0.0.0 .industries   #Industrialbusinesses
+0.0.0.0 .institute   #Establishedbusinessassociations
+0.0.0.0 .ltda   #CompaniesinSouthAmerica
+0.0.0.0 .pub   #Barsandpubs
+0.0.0.0 .realtor   #Realtors
+0.0.0.0 .reit   #Realestateinvestmenttrusts
+0.0.0.0 .rest   #Restaurants
+0.0.0.0 .restaurant   #Restaurants
+0.0.0.0 .sarl   #Societearesponsabilitelimitee,FrancophoneLimitedliabilitycompany
+0.0.0.0 .ventures   #Fundingforstartups
+#ListofBrandNameDomainExtensions
+0.0.0.0 .allfinanz   #AllfinanzDeutscheVermogensberatungAktiengesellschaft
+0.0.0.0 .android   #Google(Android)
+0.0.0.0 .aquarelle   #Aquarelle.com
+0.0.0.0 .axa   #AXA
+0.0.0.0 .barclays   #Barclays
+0.0.0.0 .barclaycard   #Barclays
+0.0.0.0 .bloomberg   #BloombergIPHoldingsLLC
+0.0.0.0 .bmw   #BMW
+0.0.0.0 .bnpparibas   #BNPParibas
+0.0.0.0 .cal   #Google(GoogleCalendar)
+0.0.0.0 .caravan   #CaravanInternational,Inc.
+0.0.0.0 .cern   #CERN
+0.0.0.0 .chrome   #Google(GoogleChrome)
+0.0.0.0 .citic   #CITICGroup
+0.0.0.0 .crs   #FederatedCooperativesLimited
+0.0.0.0 .cuisinella   #SocieteAlsaciennedeMeubles(Cuisinella)
+0.0.0.0 .dnp   #DaiNipponPrintingCo.
+0.0.0.0 .dvag   #DeutscheVermogensberatungAktiengesellschaft
+0.0.0.0 .emerck   #MerckKGaA
+0.0.0.0 .everbank   #EverBank
+0.0.0.0 .firmdale   #FirmdaleHoldings
+0.0.0.0 .flsmidth   #FLSmidthA/S
+0.0.0.0 .frogans   #OP3FT
+0.0.0.0 .gbiz   #Google
+0.0.0.0 .gle   #Google
+0.0.0.0 .globo   #GrupoGlobo
+0.0.0.0 .gmail   #Google(Gmail)
+0.0.0.0 .gmo   #GMOInternet
+0.0.0.0 .gmx   #1&1Mail&Media(GlobalMessageExchange)
+0.0.0.0 .google   #Google
+0.0.0.0 .hsbc   #HSBC
+0.0.0.0 .ibm   #IBM
+0.0.0.0 .kred   #KredTLD
+0.0.0.0 .lacaixa   #Caixad'EstalvisiPensionsdeBarcelona
+0.0.0.0 .latrobe   #LaTrobeUniversity
+0.0.0.0 .lds   #TheChurchofJesusChristofLatterdaySaints(LDSChurch)
+0.0.0.0 .mango   #MANGO
+0.0.0.0 .mini   #BMW(Mini)
+0.0.0.0 .monash   #MonashUniversity
+0.0.0.0 .mormon   #TheChurchofJesusChristofLatterdaySaints(LDSChurch)
+0.0.0.0 .neustar   #Neustar
+0.0.0.0 .nexus   #Google(GoogleNexus)
+0.0.0.0 .nhk   #NHK
+0.0.0.0 .nra   #NationalRifleAssociation
+0.0.0.0 .otsuka   #OtsukaHoldings
+0.0.0.0 .ovh   #OVH
+0.0.0.0 .piaget   #PiagetSA
+0.0.0.0 .pohl   #DeutscheVermogensberatungAktiengesellschaft
+0.0.0.0 .praxi   #Praxi
+0.0.0.0 .prod   #Google(products)
+0.0.0.0 .sca   #SvenskaCellulosaAktiebolaget
+0.0.0.0 .scb   #SiamCommercialBank
+0.0.0.0 .schmidt   #SocieteAlsaciennedeMeubles(CuisinesSchmidt)
+0.0.0.0 .sohu   #Sohu
+0.0.0.0 .spiegel   #SpiegelVerlag
+0.0.0.0 .suzuki   #SuzukiMotorCorporation
+0.0.0.0 .tui   #TUIAG
+0.0.0.0 .uol   #UniversoOnlineDelegatedtoUOLsubsidiaryUBNInternet
+0.0.0.0 .williamhill   #WilliamHill
+0.0.0.0 .wme   #WilliamMorrisEndeavorEntertainment
+0.0.0.0 .wtc   #WorldTradeCentersAssociation
+0.0.0.0 .yandex   #Yandex
+0.0.0.0 .youtube   #Google(YouTube)
+0.0.0.0 .abogado
+0.0.0.0 .academy
+0.0.0.0 .accountant
+0.0.0.0 .accountants
+0.0.0.0 .actor
+0.0.0.0 .ads
+0.0.0.0 .adult
+0.0.0.0 .africa
+0.0.0.0 .agency
+0.0.0.0 .airforce
+0.0.0.0 .alsace
+0.0.0.0 .amsterdam
+0.0.0.0 .apartments
+0.0.0.0 .app
+0.0.0.0 .arab
+0.0.0.0 .archi
+0.0.0.0 .architect
+0.0.0.0 .army
+0.0.0.0 .art
+0.0.0.0 .associates
+0.0.0.0 .attorney
+0.0.0.0 .auction
+0.0.0.0 .audio
+0.0.0.0 .auto
+0.0.0.0 .baby
+0.0.0.0 .band
+0.0.0.0 .bar
+0.0.0.0 .barcelona
+0.0.0.0 .bargains
+0.0.0.0 .baseball
+0.0.0.0 .basketball
+0.0.0.0 .bayern
+0.0.0.0 .beauty
+0.0.0.0 .beer
+0.0.0.0 .berlin
+0.0.0.0 .best
+0.0.0.0 .bet
+0.0.0.0 .bible
+0.0.0.0 .bid
+0.0.0.0 .bike
+0.0.0.0 .bingo
+0.0.0.0 .bio
+0.0.0.0 .black
+0.0.0.0 .blackfriday
+0.0.0.0 .blog
+0.0.0.0 .blue
+0.0.0.0 .boats
+0.0.0.0 .boo
+0.0.0.0 .book
+0.0.0.0 .boutique
+0.0.0.0 .box
+0.0.0.0 .broadway
+0.0.0.0 .broker
+0.0.0.0 .brussels
+0.0.0.0 .budapest
+0.0.0.0 .build
+0.0.0.0 .builders
+0.0.0.0 .business
+0.0.0.0 .buy
+0.0.0.0 .buzz
+0.0.0.0 .bzh
+0.0.0.0 .cab
+0.0.0.0 .cafe
+0.0.0.0 .cam
+0.0.0.0 .camera
+0.0.0.0 .camp
+0.0.0.0 .capetown
+0.0.0.0 .capital
+0.0.0.0 .car
+0.0.0.0 .cards
+0.0.0.0 .care
+0.0.0.0 .career
+0.0.0.0 .careers
+0.0.0.0 .cars
+0.0.0.0 .casa
+0.0.0.0 .cash
+0.0.0.0 .casino
+0.0.0.0 .catering
+0.0.0.0 .center
+0.0.0.0 .ceo
+0.0.0.0 .charity
+0.0.0.0 .chat
+0.0.0.0 .cheap
+0.0.0.0 .christmas
+0.0.0.0 .church
+0.0.0.0 .city
+0.0.0.0 .claims
+0.0.0.0 .cleaning
+0.0.0.0 .click
+0.0.0.0 .clinic
+0.0.0.0 .clothing
+0.0.0.0 .cloud
+0.0.0.0 .club
+0.0.0.0 .coach
+0.0.0.0 .codes
+0.0.0.0 .coffee
+0.0.0.0 .college
+0.0.0.0 .cologne
+0.0.0.0 .community
+0.0.0.0 .company
+0.0.0.0 .computer
+0.0.0.0 .condos
+0.0.0.0 .construction
+0.0.0.0 .consulting
+0.0.0.0 .contact
+0.0.0.0 .contractors
+0.0.0.0 .cooking
+0.0.0.0 .cool
+0.0.0.0 .corp
+0.0.0.0 .corsica
+0.0.0.0 .country
+0.0.0.0 .coupon
+0.0.0.0 .coupons
+0.0.0.0 .courses
+0.0.0.0 .cpa
+0.0.0.0 .credit
+0.0.0.0 .cricket
+0.0.0.0 .cruises
+0.0.0.0 .cymru
+0.0.0.0 .dad
+0.0.0.0 .dance
+0.0.0.0 .data
+0.0.0.0 .date
+0.0.0.0 .dating
+0.0.0.0 .day
+0.0.0.0 .dds
+0.0.0.0 .deal
+0.0.0.0 .deals
+0.0.0.0 .degree
+0.0.0.0 .delivery
+0.0.0.0 .democrat
+0.0.0.0 .dental
+0.0.0.0 .dentist
+0.0.0.0 .desi
+0.0.0.0 .design
+0.0.0.0 .diamonds
+0.0.0.0 .diet
+0.0.0.0 .digital
+0.0.0.0 .direct
+0.0.0.0 .directory
+0.0.0.0 .discount
+0.0.0.0 .diy
+0.0.0.0 .docs
+0.0.0.0 .doctor
+0.0.0.0 .dog
+0.0.0.0 .domains
+0.0.0.0 .dot
+0.0.0.0 .download
+0.0.0.0 .dubai
+0.0.0.0 .durban
+0.0.0.0 .earth
+0.0.0.0 .eat
+0.0.0.0 .eco
+0.0.0.0 .education
+0.0.0.0 .email
+0.0.0.0 .energy
+0.0.0.0 .engineer
+0.0.0.0 .engineering
+0.0.0.0 .enterprises
+0.0.0.0 .equipment
+0.0.0.0 .estate
+0.0.0.0 .eus
+0.0.0.0 .events
+0.0.0.0 .exchange
+0.0.0.0 .expert
+0.0.0.0 .exposed
+0.0.0.0 .express
+0.0.0.0 .fail
+0.0.0.0 .faith
+0.0.0.0 .family
+0.0.0.0 .fan
+0.0.0.0 .fans
+0.0.0.0 .farm
+0.0.0.0 .fashion
+0.0.0.0 .feedback
+0.0.0.0 .film
+0.0.0.0 .final
+0.0.0.0 .finance
+0.0.0.0 .financial
+0.0.0.0 .fish
+0.0.0.0 .fishing
+0.0.0.0 .fit
+0.0.0.0 .fitness
+0.0.0.0 .flights
+0.0.0.0 .florist
+0.0.0.0 .flowers
+0.0.0.0 .fly
+0.0.0.0 .foo
+0.0.0.0 .food
+0.0.0.0 .football
+0.0.0.0 .forsale
+0.0.0.0 .forum
+0.0.0.0 .foundation
+0.0.0.0 .free
+0.0.0.0 .frl
+0.0.0.0 .fun
+0.0.0.0 .fund
+0.0.0.0 .furniture
+0.0.0.0 .futbol
+0.0.0.0 .fyi
+0.0.0.0 .gal
+0.0.0.0 .gallery
+0.0.0.0 .game
+0.0.0.0 .games
+0.0.0.0 .garden
+0.0.0.0 .gay
+0.0.0.0 .gdn
+0.0.0.0 .gent
+0.0.0.0 .gift
+0.0.0.0 .gifts
+0.0.0.0 .gives
+0.0.0.0 .glass
+0.0.0.0 .global
+0.0.0.0 .gmbh
+0.0.0.0 .gold
+0.0.0.0 .golf
+0.0.0.0 .graphics
+0.0.0.0 .gratis
+0.0.0.0 .green
+0.0.0.0 .gripe
+0.0.0.0 .group
+0.0.0.0 .guide
+0.0.0.0 .guitars
+0.0.0.0 .guru
+0.0.0.0 .hair
+0.0.0.0 .hamburg
+0.0.0.0 .haus
+0.0.0.0 .health
+0.0.0.0 .healthcare
+0.0.0.0 .help
+0.0.0.0 .helsinki
+0.0.0.0 .here
+0.0.0.0 .hiphop
+0.0.0.0 .hiv
+0.0.0.0 .hockey
+0.0.0.0 .holdings
+0.0.0.0 .holiday
+0.0.0.0 .home
+0.0.0.0 .horse
+0.0.0.0 .hospital
+0.0.0.0 .host
+0.0.0.0 .hosting
+0.0.0.0 .hot
+0.0.0.0 .hotel
+0.0.0.0 .house
+0.0.0.0 .how
+0.0.0.0 .immo
+0.0.0.0 .immobilien
+0.0.0.0 .inc
+0.0.0.0 .indians
+0.0.0.0 .industries
+0.0.0.0 .ing
+0.0.0.0 .ink
+0.0.0.0 .institute
+0.0.0.0 .insurance
+0.0.0.0 .insure
+0.0.0.0 .international
+0.0.0.0 .investments
+0.0.0.0 .jetzt
+0.0.0.0 .jewelry
+0.0.0.0 .joburg
+0.0.0.0 .juegos
+0.0.0.0 .kaufen
+0.0.0.0 .kids
+0.0.0.0 .kim
+0.0.0.0 .kitchen
+0.0.0.0 .kiwi
+0.0.0.0 .koeln
+0.0.0.0 .krd
+0.0.0.0 .kyoto
+0.0.0.0 .land
+0.0.0.0 .lat
+0.0.0.0 .latino
+0.0.0.0 .law
+0.0.0.0 .lawyer
+0.0.0.0 .lease
+0.0.0.0 .legal
+0.0.0.0 .lgbt
+0.0.0.0 .life
+0.0.0.0 .lighting
+0.0.0.0 .limited
+0.0.0.0 .limo
+0.0.0.0 .link
+0.0.0.0 .live
+0.0.0.0 .living
+0.0.0.0 .llc
+0.0.0.0 .llp
+0.0.0.0 .loan
+0.0.0.0 .loans
+0.0.0.0 .lol
+0.0.0.0 .london
+0.0.0.0 .lotto
+0.0.0.0 .love
+0.0.0.0 .ltd
+0.0.0.0 .ltda
+0.0.0.0 .luxe
+0.0.0.0 .luxury
+0.0.0.0 .madrid
+0.0.0.0 .mail
+0.0.0.0 .maison
+0.0.0.0 .management
+0.0.0.0 .map
+0.0.0.0 .market
+0.0.0.0 .marketing
+0.0.0.0 .mba
+0.0.0.0 .media
+0.0.0.0 .medical
+0.0.0.0 .meet
+0.0.0.0 .melbourne
+0.0.0.0 .meme
+0.0.0.0 .memorial
+0.0.0.0 .men
+0.0.0.0 .menu
+0.0.0.0 .miami
+0.0.0.0 .mobile
+0.0.0.0 .moda
+0.0.0.0 .moe
+0.0.0.0 .mom
+0.0.0.0 .money
+0.0.0.0 .mortgage
+0.0.0.0 .moscow
+0.0.0.0 .moto
+0.0.0.0 .mov
+0.0.0.0 .movie
+0.0.0.0 .music
+0.0.0.0 .nagoya
+0.0.0.0 .navy
+0.0.0.0 .network
+0.0.0.0 .new
+0.0.0.0 .news
+0.0.0.0 .ngo
+0.0.0.0 .ninja
+0.0.0.0 .now
+0.0.0.0 .nrw
+0.0.0.0 .nyc
+0.0.0.0 .nz
+0.0.0.0 .okinawa
+0.0.0.0 .one
+0.0.0.0 .ong
+0.0.0.0 .onl
+0.0.0.0 .online
+0.0.0.0 .organic
+0.0.0.0 .osaka
+0.0.0.0 .paris
+0.0.0.0 .partners
+0.0.0.0 .parts
+0.0.0.0 .party
+0.0.0.0 .pay
+0.0.0.0 .pet
+0.0.0.0 .pets
+0.0.0.0 .phd
+0.0.0.0 .phone
+0.0.0.0 .photo
+0.0.0.0 .photography
+0.0.0.0 .photos
+0.0.0.0 .physio
+0.0.0.0 .pics
+0.0.0.0 .pictures
+0.0.0.0 .pid
+0.0.0.0 .ping
+0.0.0.0 .pink
+0.0.0.0 .pizza
+0.0.0.0 .place
+0.0.0.0 .play
+0.0.0.0 .plumbing
+0.0.0.0 .plus
+0.0.0.0 .poker
+0.0.0.0 .porn
+0.0.0.0 .press
+0.0.0.0 .productions
+0.0.0.0 .properties
+0.0.0.0 .property
+0.0.0.0 .pub
+0.0.0.0 .qpon
+0.0.0.0 .quebec
+0.0.0.0 .racing
+0.0.0.0 .radio
+0.0.0.0 .realestate
+0.0.0.0 .realty
+0.0.0.0 .recipes
+0.0.0.0 .red
+0.0.0.0 .rehab
+0.0.0.0 .reise
+0.0.0.0 .reisen
+0.0.0.0 .rent
+0.0.0.0 .rentals
+0.0.0.0 .repair
+0.0.0.0 .report
+0.0.0.0 .republican
+0.0.0.0 .rest
+0.0.0.0 .restaurant
+0.0.0.0 .review
+0.0.0.0 .reviews
+0.0.0.0 .rich
+0.0.0.0 .rip
+0.0.0.0 .rocks
+0.0.0.0 .rodeo
+0.0.0.0 .rsvp
+0.0.0.0 .rugby
+0.0.0.0 .ruhr
+0.0.0.0 .run
+0.0.0.0 .ryukyu
+0.0.0.0 .saarland
+0.0.0.0 .sale
+0.0.0.0 .salon
+0.0.0.0 .sarl
+0.0.0.0 .save
+0.0.0.0 .school
+0.0.0.0 .schule
+0.0.0.0 .science
+0.0.0.0 .scot
+0.0.0.0 .search
+0.0.0.0 .services
+0.0.0.0 .sexy
+0.0.0.0 .shiksha
+0.0.0.0 .shoes
+0.0.0.0 .shop
+0.0.0.0 .shopping
+0.0.0.0 .show
+0.0.0.0 .singles
+0.0.0.0 .site
+0.0.0.0 .ski
+0.0.0.0 .soccer
+0.0.0.0 .social
+0.0.0.0 .software
+0.0.0.0 .solar
+0.0.0.0 .solutions
+0.0.0.0 .soy
+0.0.0.0 .spa
+0.0.0.0 .space
+0.0.0.0 .sport
+0.0.0.0 .sports
+0.0.0.0 .spot
+0.0.0.0 .store
+0.0.0.0 .stream
+0.0.0.0 .studio
+0.0.0.0 .study
+0.0.0.0 .style
+0.0.0.0 .supplies
+0.0.0.0 .supply
+0.0.0.0 .support
+0.0.0.0 .surf
+0.0.0.0 .surgery
+0.0.0.0 .swiss
+0.0.0.0 .sydney
+0.0.0.0 .systems
+0.0.0.0 .taipei
+0.0.0.0 .tattoo
+0.0.0.0 .tax
+0.0.0.0 .taxi
+0.0.0.0 .team
+0.0.0.0 .tech
+0.0.0.0 .technology
+0.0.0.0 .tennis
+0.0.0.0 .thai
+0.0.0.0 .theater
+0.0.0.0 .tickets
+0.0.0.0 .tienda
+0.0.0.0 .tips
+0.0.0.0 .tires
+0.0.0.0 .tirol
+0.0.0.0 .today
+0.0.0.0 .tokyo
+0.0.0.0 .tools
+0.0.0.0 .top
+0.0.0.0 .tour
+0.0.0.0 .tours
+0.0.0.0 .town
+0.0.0.0 .toys
+0.0.0.0 .trade
+0.0.0.0 .trading
+0.0.0.0 .training
+0.0.0.0 .tube
+0.0.0.0 .university
+0.0.0.0 .uno
+0.0.0.0 .vacations
+0.0.0.0 .vegas
+0.0.0.0 .ventures
+0.0.0.0 .versicherung
+0.0.0.0 .vet
+0.0.0.0 .viajes
+0.0.0.0 .video
+0.0.0.0 .villas
+0.0.0.0 .vin
+0.0.0.0 .vip
+0.0.0.0 .vision
+0.0.0.0 .vlaanderen
+0.0.0.0 .vodka
+0.0.0.0 .vote
+0.0.0.0 .voting
+0.0.0.0 .voto
+0.0.0.0 .voyage
+0.0.0.0 .wales
+0.0.0.0 .wang
+0.0.0.0 .watch
+0.0.0.0 .web
+0.0.0.0 .webcam
+0.0.0.0 .website
+0.0.0.0 .wed
+0.0.0.0 .wedding
+0.0.0.0 .whoswho
+0.0.0.0 .wien
+0.0.0.0 .wiki
+0.0.0.0 .win
+0.0.0.0 .wine
+0.0.0.0 .work
+0.0.0.0 .works
+0.0.0.0 .world
+0.0.0.0 .wow
+0.0.0.0 .wtf
+0.0.0.0 .xyz
+0.0.0.0 .yachts
+0.0.0.0 .yoga
+0.0.0.0 .yokohama
+0.0.0.0 .you
+0.0.0.0 .zip
+0.0.0.0 .zone
